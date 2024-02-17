@@ -1,0 +1,880 @@
+,Rank,Name,Symbol,marketcap,price (USD),country,IPO_year,capitalization
+0,1,Microsoft,MSFT,3002343620608,404.06,United States,1986,high
+1,2,Apple,AAPL,2815212650496,182.31,United States,1980,high
+2,4,NVIDIA,NVDA,1793541144576,726.13,United States,1999,high
+3,5,Amazon,AMZN,1760768032768,169.51,United States,1997,high
+4,6,Alphabet (Google),GOOG,1753911394304,141.76,United States,2004,high
+5,7,Meta Platforms (Facebook),META,1206686842880,473.32,United States,2012,high
+6,8,Berkshire Hathaway,BRK-B,880003579904,405.99,United States,1996,high
+7,9,Eli Lilly,LLY,742415007744,782.06,United States,1950,high
+8,10,TSMC,TSM,657066295296,126.69,Taiwan,1994,high
+9,11,Tesla,TSLA,636798763008,199.95,United States,2010,high
+10,12,Broadcom,AVGO,583060226048,1245.48,United States,2009,high
+11,13,Visa,V,572181708800,278.56,United States,2008,high
+12,14,Novo Nordisk,NVO,553491365888,124.01,Denmark,1981,high
+13,15,JPMorgan Chase,JPM,515015573504,179.03,United States,1983,high
+14,16,UnitedHealth,UNH,482394603520,521.55,United States,1984,high
+15,17,Walmart,WMT,458648289280,170.36,United States,1972,high
+16,19,Mastercard,MA,436714766336,468.13,United States,2006,high
+17,20,Exxon Mobil,XOM,411911847936,103.73,United States,1978,high
+18,21,Johnson & Johnson,JNJ,376859721728,156.55,United States,1944,high
+19,22,Procter & Gamble,PG,370624167936,157.51,United States,1890,high
+20,23,ASML,ASML,366550450176,928.94,Netherlands,1995,high
+21,25,Home Depot,HD,360633204736,362.35,United States,1981,high
+22,26,Tencent,TCEHY,351928745984,36.91,China,2004,high
+23,27,Merck,MRK,323822419968,127.79,United States,1970,high
+24,28,Costco,COST,321254621184,723.99,United States,1985,high
+25,29,AbbVie,ABBV,313365692416,177.49,United States,2013,high
+26,30,Toyota,TM,306963283968,227.36,Japan,1956,high
+27,31,Oracle,ORCL,305982275584,111.31,United States,1986,high
+28,34,Chevron,CVX,286220156928,154.63,United States,1911,high
+29,35,AMD,AMD,280937398272,173.87,United States,1972,high
+30,36,Salesforce,CRM,280448958464,289.72,United States,2004,high
+31,37,Bank of America,BAC,269156220928,34.09,United States,1971,high
+32,38,Coca-Cola,KO,255817072640,59.39,United States,1919,high
+33,40,Netflix,NFLX,252710207488,583.95,United States,2002,high
+34,42,Adobe,ADBE,247090315264,546.66,United States,1986,high
+35,45,Accenture,ACN,231661010944,369.48,Ireland,2001,high
+36,46,Pepsico,PEP,228595204096,166.32,United States,1919,high
+37,47,Thermo Fisher Scientific,TMO,211670040576,547.84,United States,1986,high
+38,48,McDonald,MCD,210879905792,292.02,United States,1965,high
+39,49,Linde,LIN,209293066240,431.63,United Kingdom,2018,high
+40,51,SAP,SAP,206931623936,176.91,Germany,1988,high
+41,54,Walt Disney,DIS,204707872768,111.6,United States,1957,high
+42,55,PetroChina,601857.SS,201539783549,1.15,China,2000,high
+43,56,AstraZeneca,AZN,199261405184,64.27,United Kingdom,1993,high
+44,57,Abbott Laboratories,ABT,197928206336,114.01,United States,1929,high
+45,58,Cisco,CSCO,196834967552,48.44,United States,1990,high
+46,59,T-Mobile US,TMUS,190385815552,160.41,United States,2002,high
+47,61,Wells Fargo,WFC,186816823296,51.91,United States,1972,high
+48,62,Alibaba,BABA,186692976640,73.91,China,2014,high
+49,63,Danaher,DHR,184800002048,250.0,United States,1983,high
+50,64,Intel,INTC,183960272896,43.51,United States,1971,high
+51,65,Intuit,INTU,183565221888,655.74,United States,1993,high
+52,67,Pinduoduo,PDD,179705069568,135.26,China,2018,high
+53,69,IBM,IBM,171337646080,187.64,United States,1911,high
+54,70,QUALCOMM,QCOM,170402037760,152.69,United States,1991,high
+55,71,Verizon,VZ,170230906880,40.49,United States,1983,high
+56,72,Applied Materials,AMAT,166054625280,199.57,United States,1972,high
+57,73,Comcast,CMCSA,163799515136,41.24,United States,1972,high
+58,74,Uber,UBER,162818375680,78.41,United States,2019,high
+59,76,Caterpillar,CAT,160754450432,321.91,United States,1925,high
+60,78,Nike,NKE,156830072832,103.51,United States,1978,high
+61,79,ServiceNow,NOW,156824993792,765.0,United States,2012,high
+62,80,Pfizer,PFE,155953856512,27.62,United States,1942,high
+63,82,American Express,AXP,153865814016,212.56,United States,1978,high
+64,85,Amgen,AMGN,152040226816,283.7,United States,1983,high
+65,88,Union Pacific Corporation,UNP,150365143040,246.59,United States,1862,high
+66,89,Texas Instruments,TXN,145831608320,160.38,United States,1953,high
+67,90,Siemens,SIE.DE,144014851624,182.32,Germany,1897,high
+68,91,Morgan Stanley,MS,141973307392,86.5,United States,1986,high
+69,93,Royal Bank Of Canada,RY,137806282752,97.83,Canada,1869,high
+70,95,HDFC Bank,HDB,136217837568,53.8,India,1995,high
+71,96,Intuitive Surgical,ISRG,133401198592,378.63,United States,2000,high
+72,97,S&P Global,SPGI,133043339264,423.57,United States,1860,high
+73,98,Stryker Corporation,SYK,132826210304,349.3,United States,1979,high
+74,99,Inditex,IDEXY,132810604544,21.3,Spain,2001,high
+75,101,Lowe's Companies,LOW,130464391168,226.85,United States,1961,high
+76,102,ConocoPhillips,COP,130075648000,110.57,United States,1917,high
+77,103,Honeywell,HON,129984520192,197.17,United States,1920,high
+78,104,Booking Holdings (Booking.com),BKNG,129680179200,3716.84,United States,1999,high
+79,106,Unilever,UL,126771298304,50.7,United Kingdom,1930,high
+80,107,United Parcel Service,UPS,126434344960,148.41,United States,1999,high
+81,108,Prologis,PLD,126363418624,133.39,United States,1994,high
+82,109,Airbus,AIR.PA,126319683265,157.67,Netherlands,2000,high
+83,110,Goldman Sachs,GS,125370499072,384.44,United States,1999,high
+84,111,Boeing,BA,124400418816,203.89,United States,1917,high
+85,112,Anheuser-Busch Inbev,BUD,124086648832,62.24,Belgium,2000,high
+86,114,Lam Research,LRCX,121405317120,926.03,United States,1980,high
+87,115,AT&T,T,121335832576,16.97,United States,1984,high
+88,116,Raytheon Technologies,RTX,120754798592,91.01,United States,1922,high
+89,118,Deutsche Telekom,DTE.DE,118856840725,23.9,Germany,1996,high
+90,119,BlackRock,BLK,117908996096,794.0,United States,1999,high
+91,120,Charles Schwab,SCHW,117374156800,64.4,United States,1987,high
+92,121,Nextera Energy,NEE,117009014784,57.03,United States,1985,high
+93,122,Sanofi,SNY,116173643776,46.18,France,1973,high
+94,123,Palo Alto Networks,PANW,115529072640,366.41,United States,2012,high
+95,124,Petrobras,PBR,114385895424,17.7,Brazil,1953,high
+96,126,Medtronic,MDT,112249053184,84.42,Ireland,1957,high
+97,127,Rio Tinto,RIO,112148594688,69.12,United Kingdom,1873,high
+98,128,TJX Companies,TJX,111734226944,98.04,United States,1987,high
+99,129,Keyence,6861.T,111278651466,458.83,Japan,1985,high
+100,131,Progressive,PGR,110750007296,189.09,United States,1971,high
+101,132,Sony,SONY,110573813760,88.84,Japan,1958,high
+102,133,Tokyo Electron,8035.T,109130562263,235.75,Japan,1963,high
+103,134,Vertex Pharmaceuticals,VRTX,109057638400,422.2,United States,1991,high
+104,135,Toronto Dominion Bank,TD,107538350080,59.94,Canada,1855,high
+105,136,Starbucks,SBUX,105545555968,93.22,United States,1992,high
+106,137,Shopify,SHOP,104635678720,81.29,Canada,2015,high
+107,138,Citigroup,C,104385036288,54.85,United States,1977,high
+108,139,Allianz,ALV.DE,104284529808,266.22,Germany,1890,high
+109,140,Regeneron Pharmaceuticals,REGN,104059863040,948.05,United States,1988,high
+110,141,Automatic Data Processing,ADP,103917805568,252.97,United States,1961,high
+111,143,Lockheed Martin,LMT,102473555968,424.07,United States,1995,high
+112,145,Deere & Company,DE,100986798080,360.68,United States,1837,high
+113,146,Bristol-Myers Squibb,BMY,100826390528,49.86,United States,1989,high
+114,147,BP,BP,100618084352,35.45,United Kingdom,1909,high
+115,149,Cigna,CI,99770187776,341.09,United States,1982,high
+116,151,Marsh & McLennan Companies,MMC,98478694400,200.3,United States,1905,high
+117,152,China Life Insurance,601628.SS,98019519235,4.28,China,2003,high
+118,153,Airbnb,ABNB,97747623936,152.51,United States,2020,high
+119,154,CVS Health,CVS,97026498560,77.1,United States,1996,high
+120,155,Mondelez,MDLZ,96919633920,71.98,United States,2001,high
+121,157,Air Liquide,AI.PA,96440325958,184.34,France,1902,high
+122,158,Boston Scientific,BSX,96424984576,65.82,United States,1992,high
+123,159,Ping An Insurance,601318.SS,95865407299,5.95,China,2004,high
+124,161,Analog Devices,ADI,93342572544,188.24,United States,1969,high
+125,162,AIA,1299.HK,92946102523,8.22,Hong Kong,2010,high
+126,163,Blackstone Group,BX,92336580000,127.89,United States,2007,high
+127,165,EssilorLuxottica,EL.PA,91622908872,201.92,France,1972,high
+128,167,CSL,CSL.AX,89528801446,185.32,Australia,1994,high
+129,168,KLA,KLAC,89437003776,661.35,United States,1995,high
+130,169,MercadoLibre,MELI,89428631552,1768.78,Argentina,2007,high
+131,171,Gilead Sciences,GILD,89191546880,71.58,United States,1992,high
+132,172,Fiserv,FI,88851529728,148.04,United States,1986,high
+133,173,Micron Technology,MU,87760846848,79.5,United States,1984,high
+134,174,American Tower,AMT,87233454080,187.13,United States,1995,high
+135,175,ICICI Bank,IBN,86806233088,24.74,India,1998,high
+136,176,Zoetis,ZTS,86257565696,188.39,United States,2013,high
+137,177,Fast Retailing,9983.T,86070281739,280.63,Japan,1994,high
+138,178,GlaxoSmithKline,GSK,85100453888,41.94,United Kingdom,1904,high
+139,179,KKR & Co.,KKR,85033902080,95.66,United States,2010,high
+140,180,Infosys,INFY,84852654080,20.47,India,1993,high
+141,181,Synopsys,SNPS,84327620608,552.91,United States,1986,high
+142,182,Mitsubishi Corporation,8058.T,83938912857,20.32,Japan,1954,high
+143,184,ABB,ABBN.SW,83715368329,45.51,Switzerland,1989,high
+144,186,Canadian National Railway,CNI,83423698944,129.85,Canada,1919,high
+145,187,CNOOC,0883.HK,83316857433,1.87,China,2001,high
+146,188,HCA Healthcare,HCA,82586796032,308.55,United States,1968,high
+147,189,Shin-Etsu Chemical,4063.T,82490447754,41.34,Japan,1926,high
+148,190,Diageo,DEO,82039824384,146.9,United Kingdom,1886,high
+149,191,Arista Networks,ANET,81831944192,261.75,United States,2014,high
+150,192,SoftBank,9984.T,81283437791,55.45,Japan,1994,high
+151,193,State Bank of India,SBIN.NS,81156284025,9.09,India,1955,high
+152,194,Waste Management,WM,80938057728,201.54,United States,1971,high
+153,195,RELX,RELX,80523083776,42.77,United Kingdom,1993,high
+154,196,Equinix,EQIX,80385777664,856.23,United States,2000,high
+155,197,Canadian Pacific Railway,CP,79730745344,85.38,Canada,2001,high
+156,198,Workday,WDAY,79602212864,302.67,United States,2012,high
+157,199,Bharti Airtel,BHARTIARTL.NS,79586761778,13.5,India,2002,high
+158,201,Porsche,P911.DE,79138570000,86.87,Germany,1950,high
+159,202,Sherwin-Williams,SHW,79113969664,309.08,United States,1870,high
+160,203,CrowdStrike,CRWD,79065333760,329.24,United States,2019,high
+161,204,Cadence Design Systems,CDNS,79030984704,290.3,United States,1983,high
+162,206,Intercontinental Exchange,ICE,78517100544,137.12,United States,2005,high
+163,209,CME Group,CME,76412108800,212.26,United States,2002,high
+164,210,Atlas Copco,ATCO-B.ST,76071467313,14.75,Sweden,1873,high
+165,211,SK Hynix,000660.KS,75892935237,110.29,South Korea,1984,high
+166,212,Illinois Tool Works,ITW,75871297536,253.92,United States,1912,high
+167,213,Snowflake,SNOW,75725930496,230.31,United States,2020,high
+168,214,Hitachi,6501.T,75207660601,81.16,Japan,1910,high
+169,215,AXA,CS.PA,75172484627,33.38,France,1985,high
+170,217,BMW,BMW.DE,73944902611,112.16,Germany,1922,high
+171,218,General Dynamics,GD,73821175808,269.44,United States,1952,high
+172,219,Investor AB,INVE-B.ST,73445061224,24.45,Sweden,1916,high
+173,220,Zurich Insurance Group,ZURN.SW,73427527347,501.7,Switzerland,1998,high
+174,221,Enbridge,ENB,73334218752,34.42,Canada,1949,high
+175,222,Merck KGaA,MRK.DE,72933764254,167.75,Germany,1995,high
+176,224,Iberdrola,IBE.MC,72474721174,11.61,Spain,2000,high
+177,225,Southern Company,SO,72464531456,66.48,United States,1949,high
+178,228,CSX Corporation,CSX,71939252224,36.72,United States,1980,high
+179,229,BYD,002594.SZ,71346584097,25.19,China,2002,high
+180,230,Chipotle Mexican Grill,CMG,71252066304,2598.43,United States,2006,high
+181,231,Vinci,DG.PA,71015678111,122.0,France,1899,high
+182,232,Altria Group,MO,70855819264,40.18,United States,1985,high
+183,234,NetEase,NTES,70719119360,107.76,China,2000,high
+184,235,Sumitomo Mitsui Financial Group,SMFG,70561349632,10.67,Japan,2003,high
+185,236,Ferrari,RACE,70159097856,389.23,Italy,2015,high
+186,237,Walmex,WMMVF,70130671616,3.8915,Mexico,1977,high
+187,238,Marriott International,MAR,69948260352,241.63,United States,1953,high
+188,239,Volkswagen,VOW3.DE,69837958408,128.92,Germany,1961,high
+189,240,Becton Dickinson,BDX,69556043776,240.76,United States,1897,high
+190,241,Schlumberger,SLB,69309390848,48.57,United States,1926,high
+191,242,Nintendo,7974.T,69132776407,59.18,Japan,1889,high
+192,243,Target,TGT,69069250560,149.61,United States,1962,high
+193,245,Colgate-Palmolive,CL,68716646400,83.48,United States,1896,high
+194,247,Bank of Montreal,BMO,68124803072,94.19,Canada,1817,high
+195,248,Itaú Unibanco,ITUB,67948064768,6.95,Brazil,1944,high
+196,249,Moody's,MCO,67851681792,370.76,United States,2000,high
+197,250,Northrop Grumman,NOC,67660234752,450.96,United States,1939,high
+198,251,National Australia Bank,NAB.AX,67346744990,21.58,Australia,1981,high
+199,254,BNP Paribas,BNP.PA,67229028337,58.59,France,2000,high
+200,255,McKesson,MCK,67157372928,511.06,United States,2001,high
+201,257,Parker-Hannifin,PH,66781425664,520.06,United States,1964,high
+202,259,EOG Resources,EOG,66222514176,113.56,United States,1999,high
+203,260,Siemens Healthineers,SHL.DE,66213852100,59.34,Germany,2018,high
+204,262,DBS Group,D05.SI,64986219852,25.17,Singapore,1999,high
+205,263,Enel,ENEL.MI,64835063577,6.33,Italy,1999,high
+206,264,Chugai Pharmaceutical,4519.T,64782718863,39.37,Japan,1992,high
+207,265,Southern Copper,SCCO,64701579264,83.69,United States,1996,high
+208,266,U.S. Bancorp,USB,64641421312,41.49,United States,1968,high
+209,267,Nongfu Spring,9633.HK,64484664184,5.73,China,2020,high
+210,268,Recruit,6098.T,64248605661,41.41,Japan,1992,high
+211,269,Apollo Global Management,APO,63992569856,112.71,United States,2011,high
+212,270,KDDI,9433.T,63862520794,30.57,Japan,2000,high
+213,272,TransDigm,TDG,63746506752,1146.39,United States,2006,high
+214,273,PayPal,PYPL,63382704128,59.14,United States,2002,high
+215,274,Amphenol,APH,63296696320,105.52,United States,1991,high
+216,277,Santander,SAN,62591426560,3.92,Spain,1941,high
+217,279,Marathon Petroleum,MPC,62563676160,170.01,United States,2011,high
+218,280,Dassault Systèmes,DSY.PA,62505682847,46.82,France,1996,high
+219,281,Daiichi Sankyō,4568.T,62399929783,32.55,Japan,1961,high
+220,282,Cintas,CTAS,62308696064,614.66,United States,1983,high
+221,283,O'Reilly Automotive,ORLY,62088470528,1051.05,United States,1993,high
+222,284,Postal Savings Bank of China,601658.SS,61841891383,0.65,China,2016,high
+223,285,Phillips 66,PSX,61838299136,143.81,United States,2012,high
+224,286,Aon,AON,61812260864,311.24,United Kingdom,1971,high
+225,287,Trane Technologies,TT,61802188800,272.17,Ireland,1913,high
+226,288,Ecolab,ECL,61413453824,215.38,United States,1957,high
+227,289,Glencore,GLCNF,61369524224,5.03,Switzerland,2011,high
+228,291,London Stock Exchange,LSEG.L,60714656560,111.98,United Kingdom,2001,high
+229,292,Emerson,EMR,60685950976,106.15,United States,1890,high
+230,294,NXP Semiconductors,NXPI,59842260992,232.16,Netherlands,2010,high
+231,295,Dell,DELL,59480469504,84.21,United States,1988,high
+232,297,FedEx,FDX,59372077056,237.59,United States,1971,high
+233,298,PNC Financial Services,PNC,59246616576,148.85,United States,1983,high
+234,299,Enterprise Products,EPD,59183726592,27.25,United States,1998,high
+235,300,Meituan,3690.HK,59176881584,9.54,China,2018,high
+236,301,Midea,000333.SZ,58920644503,8.38,China,2016,high
+237,302,Tokio Marine,8766.T,58771340433,29.75,Japan,1879,high
+238,304,Vale,VALE,58393919488,13.63,Brazil,2000,high
+239,306,Roper Technologies,ROP,58278879232,545.57,United States,1992,high
+240,307,Oriental Land,4661.T,58051964537,35.43,Japan,1961,high
+241,308,Scotiabank,BNS,57572237312,47.36,Canada,1832,high
+242,309,Marvell Technology Group,MRVL,57307705344,66.29,United States,2000,high
+243,310,Monster Beverage,MNST,57245007872,55.02,United States,2005,high
+244,311,Fortescue,FMG.AX,57060566262,18.53,Australia,1987,high
+245,313,America Movil,AMX,56804466688,18.24,Mexico,2001,high
+246,314,Republic Services,RSG,56769949696,180.43,United States,1998,high
+247,315,lululemon athletica,LULU,56735473664,449.6,Canada,2007,high
+248,316,Banco Bilbao Vizcaya Argentaria,BBVA,56705171456,9.67,Spain,1988,high
+249,317,Honda,HMC,56658161664,34.74,Japan,1976,high
+250,320,Simon Property Group,SPG,56212959232,149.96,United States,1993,high
+251,321,Westpac Banking,WBC.AX,56177431830,16.03,Australia,1970,high
+252,323,Freeport-McMoRan,FCX,55698141184,38.83,United States,1981,high
+253,324,ANZ Bank,ANZ.AX,55659397216,18.55,Australia,1970,high
+254,325,Intesa Sanpaolo,ISP.MI,55635914559,3.04,Italy,2006,high
+255,327,Autodesk,ADSK,55254245376,258.3,United States,1985,high
+256,330,HCL Technologies,HCLTECH.NS,54406855401,20.09,India,1999,high
+257,331,Pioneer Natural Resources,PXD,54100082688,231.57,United States,1997,high
+258,333,Bank of Communications,601328.SS,54015467527,0.84,China,2005,high
+259,335,Atlassian,TEAM,53915152384,207.84,Australia,2015,high
+260,336,UniCredit,UCG.MI,53675410806,32.1,Italy,1999,high
+261,339,Palantir,PLTR,53181198336,24.44,United States,2020,high
+262,340,Welltower,WELL,52979609600,93.13,United States,1970,high
+263,342,Fortinet,FTNT,52586479616,68.48,United States,2009,high
+264,343,Estee Lauder,EL,52469690368,146.37,United States,1995,high
+265,344,Denso,6902.T,52428101047,17.8,Japan,1949,high
+266,346,Capital One,COF,52202291200,137.23,United States,1994,high
+267,348,Edwards Lifesciences,EW,51771924480,86.1,United States,2000,high
+268,350,3M,MMM,50433875968,91.25,United States,1902,high
+269,352,Adyen,ADYEN.AS,50412864747,1624.49,Netherlands,2018,high
+270,354,ENI,E,50171514880,30.44,Italy,1995,high
+271,355,Mindray,300760.SZ,50130060379,41.35,China,2006,high
+272,356,The Travelers Companies,TRV,49841778688,217.53,United States,2002,high
+273,357,Hilton Worldwide,HLT,49819447296,197.57,United States,2013,high
+274,358,MetLife,MET,49722085376,68.77,United States,2000,high
+275,359,Public Storage,PSA,49638453248,281.52,United States,1995,high
+276,360,Bajaj Finance,BAJFINANCE.NS,49358278149,79.76,India,2007,high
+277,361,Nu Holdings,NU,49260867584,10.36,Brazil,2021,high
+278,364,Energy Transfer Partners,ET,49000906752,14.55,United States,2006,high
+279,365,Ford,F,48875651072,12.3,United States,1956,high
+280,366,Spotify,SPOT,48546463744,246.25,Sweden,2018,high
+281,367,Carrier,CARR,48511655936,54.0,United States,2020,high
+282,368,Ross Stores,ROST,48506834944,144.08,United States,1985,high
+283,369,Macquarie,MQG.AX,48433218754,125.75,Australia,1996,high
+284,370,National Grid,NGG,48423182336,65.09,United Kingdom,1995,high
+285,371,Truist Financial,TFC,48148013056,36.1,United States,1992,high
+286,373,American International Group,AIG,47694016512,70.04,United States,1969,high
+287,374,Valero Energy,VLO,47506808832,139.54,United States,1980,high
+288,375,BAE Systems,BA.L,47400994834,15.65,United Kingdom,1999,high
+289,376,AutoZone,AZO,47169363968,2727.83,United States,1991,high
+290,378,Copart,CPRT,47012909056,48.96,United States,1994,high
+291,379,Infineon,IFX.DE,46999443154,36.05,Germany,1999,high
+292,380,Crown Castle,CCI,46933823488,108.22,United States,1998,high
+293,381,D. R. Horton,DHI,46875787264,141.27,United States,1992,high
+294,382,Wesfarmers,WES.AX,46614508689,41.08,Australia,1984,high
+295,386,Industrial Bank,601166.SS,46358309771,2.23,China,2007,high
+296,387,Mizuho Financial Group,MFG,46260465664,3.65,Japan,1999,high
+297,388,Old Dominion Freight Line,ODFL,46204325888,423.45,United States,1991,high
+298,389,DoorDash,DASH,46196224000,116.01,United States,2020,high
+299,391,IDEXX Laboratories,IDXX,46138535936,555.54,United States,1991,high
+300,393,Aflac,AFL,45919657984,79.38,United States,1955,high
+301,394,Japan Tobacco,2914.T,45890529015,25.85,Japan,1994,high
+302,396,Nucor,NUE,45622804480,185.58,United States,1971,high
+303,397,Hess,HES,45591609344,148.43,United States,1993,high
+304,399,DexCom,DXCM,45124534272,117.05,United States,2005,high
+305,401,MSCI,MSCI,44983119872,568.75,United States,2007,high
+306,404,BASF,BAS.DE,44800629402,50.2,Germany,1948,high
+307,405,General Motors,GM,44676440064,38.7,United States,2010,high
+308,406,Manulife Financial,MFC,44661989376,24.69,Canada,1999,high
+309,407,Constellation Brands,STZ,44578828288,243.84,United States,1973,high
+310,408,Paychex,PAYX,44394840064,123.38,United States,1983,high
+311,409,Sempra Energy,SRE,44361330688,70.49,United States,1998,high
+312,410,OCBC Bank,O39.SI,44293620904,9.85,Singapore,1932,high
+313,411,Adani Enterprises,ADANIENT.NS,44279690773,38.84,India,1994,high
+314,412,Samsung Biologics,207940.KS,44274211677,622.06,South Korea,2016,high
+315,413,Humana,HUM,44270002176,366.92,United States,1968,high
+316,414,Zijin Mining,601899.SS,44145034657,1.74,China,2003,high
+317,415,Microchip Technology,MCHP,44101062656,81.61,United States,1993,high
+318,416,ING,ING,43989028864,13.32,Netherlands,1991,high
+319,417,Holcim Group,HOLN.SW,43979875863,76.99,Switzerland,1912,high
+320,418,TE Connectivity,TEL,43972976640,142.4,Switzerland,2007,high
+321,419,First Abu Dhabi Bank,FAB.AE,43860743108,3.97,United Arab Emirates,2017,high
+322,420,United Rentals,URI,43695370240,650.31,United States,1997,high
+323,421,Coinbase,COIN,43684605952,180.31,United States,2021,high
+324,422,Hoya,7741.T,43666645920,124.58,Japan,1941,high
+325,423,Hikvision,002415.SZ,43653678670,4.68,China,2010,high
+326,424,Sun Pharmaceutical,SUNPHARMA.NS,43652699958,18.19,India,1994,high
+327,425,ICBC,1398.HK,43607270338,0.5,China,2006,high
+328,426,Interactive Brokers,IBKR,43568103424,104.53,United States,2007,high
+329,427,Realty Income,O,43535892480,52.33,United States,1994,high
+330,428,Banco Santander Brasil,BSBR,43496169472,5.83,Brazil,2009,high
+331,429,The Trade Desk,TTD,43481165824,88.93,United States,2016,high
+332,430,Foxconn Industrial Internet,601138.SS,43360104288,2.18,China,2018,high
+333,431,Digital Realty,DLR,43325722624,136.22,United States,2004,high
+334,432,Keurig Dr Pepper,KDP,43306586112,30.97,United States,2008,high
+335,433,IQVIA,IQV,43305902080,238.6,United States,2013,high
+336,434,Waste Connections,WCN,43256741888,167.87,United States,1998,high
+337,435,Maruti Suzuki India,MARUTI.NS,43112457703,137.12,India,2003,high
+338,436,Bank Mandiri,BMRI.JK,43038284683,0.46,Indonesia,1999,high
+339,437,Suncor Energy,SU,42870956032,33.07,Canada,1917,high
+340,438,CIBC,CM,42826547200,45.88,Canada,1961,high
+341,439,Pernod Ricard,RI.PA,42822133911,169.31,France,1972,high
+342,440,American Electric Power,AEP,42780012544,81.35,United States,1906,high
+343,441,Xiaomi,XIACF,42753593344,1.71,China,2018,high
+344,442,Datadog,DDOG,42626596864,129.74,United States,2019,high
+345,443,Charter Communications,CHTR,42550923264,293.0,United States,1999,high
+346,444,Allstate,ALL,42466762752,161.78,United States,1993,high
+347,445,Danone,BN.PA,42391753166,66.04,France,1973,high
+348,446,Kraft Heinz,KHC,42228015104,34.81,United States,2015,high
+349,447,Daikin,6367.T,42171904479,144.05,Japan,1973,high
+350,448,Centene,CNC,42085269504,78.74,United States,2001,high
+351,450,Oneok,OKE,41937842176,71.99,United States,1993,high
+352,452,Bank of New York Mellon,BK,41877823488,55.15,United States,2007,high
+353,453,Lennar,LEN,41846935552,150.22,United States,1954,high
+354,455,Williams Companies,WMB,41738117120,34.31,United States,1978,high
+355,458,Las Vegas Sands,LVS,41637560320,55.25,United States,2004,high
+356,459,Kotak Mahindra Bank,KOTAKBANK.NS,41559398225,20.91,India,2003,high
+357,460,Ares Management,ARES,41463996416,134.97,United States,2014,high
+358,461,Nordea Bank,NDA-FI.HE,41439400179,11.83,Finland,1997,high
+359,462,Tata Motors,TATAMOTORS.NS,41386706557,11.31,India,1945,high
+360,464,TC Energy,TRP,41079062528,39.52,Canada,2000,high
+361,465,CITIC Securities,600030.SS,40849906190,2.95,China,2002,high
+362,466,Hong Kong Exchanges & Clearing,0388.HK,40812839126,32.19,Hong Kong,2000,high
+363,467,STMicroelectronics,STM,40779243520,45.18,Switzerland,1994,high
+364,468,Ambev,ABEV,40709730304,2.55,Brazil,1999,high
+365,469,Ferguson,FERG,40384225280,198.99,United Kingdom,1887,high
+366,470,Block,SQ,40309063680,65.64,United States,2021,high
+367,471,Fastenal,FAST,40193646592,70.24,United States,1987,high
+368,472,L3Harris Technologies,LHX,40178688000,211.98,United States,2019,high
+369,473,Ametek,AME,40133640192,173.89,United States,1930,high
+370,474,Ameriprise Financial,AMP,39859560448,397.8,United States,2005,high
+371,475,Crédit Agricole,ACA.PA,39854459075,13.18,France,2001,high
+372,476,Kimberly-Clark,KMB,39849889792,118.29,United States,1928,high
+373,477,Axis Bank,AXISBANK.BO,39748923200,12.88,India,1994,high
+374,478,Grupo México,GMBXF,39703498752,5.1,Mexico,1978,high
+375,479,Sysco,SYY,39577485312,79.5,United States,1970,high
+376,480,Agilent Technologies,A,39513513984,134.84,United States,1999,high
+377,481,NTPC Limited,NTPC.NS,39461766012,4.07,India,2004,high
+378,482,Capgemini,CAP.PA,39443839676,236.7,France,1986,high
+379,484,Titan Company,TITAN.NS,39102247816,44.04,India,1990,high
+380,485,The Hershey Company,HSY,39091838976,191.16,United States,1927,high
+381,486,MPLX,MPLX,39077613568,39.03,United States,2012,high
+382,487,Dow,DOW,38963216384,55.48,United States,2019,high
+383,488,Johnson Controls,JCI,38749921280,56.86,Ireland,2016,high
+384,489,Experian,EXPGF,38740508672,41.88,Ireland,2006,high
+385,490,Prudential Financial,PRU,38728081408,107.28,United States,2001,high
+386,492,Jingdong Mall,JD,38557028352,24.22,China,2014,high
+387,493,Newmont,NEM,38527741952,33.43,United States,1921,high
+388,495,Corteva,CTVA,38457708544,54.8,United States,2019,high
+389,496,Dominion Energy,D,38375510016,45.86,United States,1983,high
+390,498,Murata Manufacturing (Murata Seisakusho),6981.T,38339982462,20.29,Japan,1950,high
+391,499,Cognizant Technology Solutions,CTSH,38333833216,77.0,United States,1998,high
+392,500,Alcon,ALC,38261571584,77.54,Switzerland,2002,high
+393,501,Baidu,BIDU,38241304576,107.12,China,2005,high
+394,502,Cheniere Energy,LNG,38208954368,160.37,United States,1996,high
+395,742,Cheniere Energy,CQP,25174867968,52.01,United States,1996,high
+396,503,Electronic Arts,EA,38038556672,142.28,United States,1989,high
+397,504,Woodside Energy,WDS,38037000192,20.02,Australia,1954,high
+398,505,Kinder Morgan,KMI,38031593472,17.11,United States,2011,high
+399,507,Yum! Brands,YUM,37808549888,134.55,United States,1997,high
+400,508,Cummins,CMI,37802053632,266.48,United States,1960,high
+401,509,Compagnie de Saint-Gobain,SGO.PA,37750577450,74.48,France,1665,high
+402,510,ENGIE,ENGI.PA,37748838734,15.43,France,2005,high
+403,511,Fidelity National Information Services,FIS,37711605760,63.65,United States,1968,high
+404,512,QNB (Qatar National Bank),QNBK.QA,37656213662,4.08,Qatar,1964,high
+405,513,Zscaler,ZS,37491163136,252.75,United States,2018,high
+406,514,BTG Pactual,BPAC3.SA,37377337624,3.71,Brazil,2012,high
+407,515,Wolters Kluwer,WKL.AS,37190454955,155.09,Netherlands,1971,high
+408,516,Kuwait Finance House,KFH.KW,37163506701,2551.95,Kuwait,1977,high
+409,517,Deutsche Börse,DB1.DE,37146885558,202.17,Germany,2001,high
+410,518,Jiangsu Hengrui Medicine,600276.SS,37134851730,5.82,China,2000,high
+411,519,Otis Worldwide,OTIS,36993712128,91.24,United States,2020,high
+412,521,Uniper,UN01.DE,36638862500,84.47,Germany,2016,high
+413,523,Flutter Entertainment,PPBA.F,36477197479,75.42,Ireland,2016,high
+414,524,CITIC Bank,601998.SS,36442420208,0.85,China,1987,high
+415,525,General Mills,GIS,36401745920,64.1,United States,1928,high
+416,526,Adani Green Energy,ADANIGREEN.NS,36379434683,22.95,India,2018,high
+417,527,UOB,U11.SI,36293340468,21.69,Singapore,1970,high
+418,528,Partners Group,PGHN.SW,36257458659,1398.05,Switzerland,2006,high
+419,529,Japan Post Bank,7182.T,36248641651,10.02,Japan,2006,high
+420,530,SMC corp,6273.T,36176672943,561.6,Japan,1959,high
+421,532,Ingersoll Rand,IR,36087455744,89.47,Ireland,1905,high
+422,533,Coal India,COALINDIA.NS,35642893174,5.78,India,2010,high
+423,534,Verisk Analytics,VRSK,35478319104,244.7,United States,2009,high
+424,535,Goodman Group,GMG.AX,35456648666,18.67,Australia,1995,high
+425,536,Veeva Systems,VEEV,35318861824,219.35,United States,2013,high
+426,537,Monolithic Power Systems,MPWR,35084455936,730.5,United States,2004,high
+427,538,Gartner,IT,34977181696,448.61,United States,1993,high
+428,539,Asian Paints,ASIANPAINT.NS,34751133527,36.24,India,1982,high
+429,540,Exelon Corporation,EXC,34750705664,34.91,United States,2000,high
+430,541,Generali,G.MI,34679901346,22.49,Italy,1831,high
+431,542,Global Payments,GPN,34619006976,134.19,United States,2000,high
+432,543,Advantest,6857.T,34559078053,46.82,Japan,1956,high
+433,544,Restaurant Brands International,QSR,34488492032,77.19,Canada,2014,high
+434,545,DSV,DSV.VI,34476614999,165.27,Denmark,2016,high
+435,546,Kia,000270.KS,34469090203,87.0,South Korea,1944,high
+436,547,BCE,BCE,34434510848,37.68,Canada,1983,high
+437,548,UltraTech Cement,ULTRACEMCO.NS,34431834141,119.48,India,2004,high
+438,549,Lloyds Banking Group,LYG,34286225408,2.14,United Kingdom,1995,high
+439,550,Rolls-Royce Holdings,RR.L,34283974136,4.07,United Kingdom,1973,high
+440,551,Kroger,KR,34273310720,47.64,United States,1928,high
+441,552,Wipro,WIT,34143557632,6.43,India,1945,high
+442,553,Adani Ports & SEZ,ADANIPORTS.NS,34017185252,15.75,India,2007,high
+443,554,Adidas,ADS.DE,33902706340,189.88,Germany,1995,high
+444,555,Vulcan Materials,VMC,33902544896,255.15,United States,1957,high
+445,556,Moderna,MRNA,33694068736,88.37,United States,2018,high
+446,557,ON Semiconductor,ON,33605150720,78.64,United States,2000,high
+447,558,MongoDB,MDB,33566914560,465.06,United States,2017,high
+448,559,Beiersdorf,BEI.DE,33540093595,147.87,Germany,1882,high
+449,560,PPG Industries,PPG,33385039872,141.91,United States,1883,high
+450,561,Martin Marietta,MLM,33367853056,539.87,United States,1994,high
+451,562,Cloudflare,NET,33253652480,98.52,United States,2019,high
+452,563,Banco do Brasil,BBAS3.SA,33251012644,11.65,Brazil,1986,high
+453,564,CoStar Group,CSGP,33240750080,81.4,United States,1998,high
+454,565,Swiss Re,SREN.SW,33159056731,114.74,Switzerland,1863,high
+455,566,Maybank,MLYBY,33105356800,5.49,Malaysia,1960,high
+456,567,E.ON,EOAN.DE,33059696082,12.66,Germany,2000,high
+457,568,Xcel Energy,XEL,32595771392,59.07,United States,1909,high
+458,569,Cenovus Energy,CVE,32595177472,17.41,Canada,2009,high
+459,570,Wanhua Chemical,600309.SS,32539479602,10.36,China,2011,high
+460,571,Li Auto,LI,32469282816,31.64,China,2020,high
+461,572,CDW Corporation,CDW,32333924352,241.37,United States,2013,high
+462,573,Loblaw Companies,L.TO,32326900721,102.18,Canada,1919,high
+463,575,Arch Capital,ACGL,32144863232,86.11,Bermuda,1995,high
+464,576,Imperial Oil,IMO,32130959360,59.9,Canada,1919,high
+465,577,Rockwell Automation,ROK,32053673984,279.72,United States,2001,high
+466,579,Disco Corp.,6146.T,31994075237,295.31,Japan,1990,high
+467,580,Nasdaq,NDAQ,31975399424,55.42,United States,2002,high
+468,581,Diamondback Energy,FANG,31947165696,179.42,United States,2012,high
+469,582,FICO,FICO,31861884928,1282.06,United States,1986,high
+470,583,Biogen,BIIB,31845687296,219.08,United States,1983,high
+471,584,Equifax,EFX,31821262848,258.08,United States,1913,high
+472,586,Ryanair,RYAAY,31760365568,139.32,Ireland,1997,high
+473,587,Banorte,GFNORTEO.MX,31754794954,11.01,Mexico,1992,high
+474,588,LyondellBasell,LYB,31690164224,97.7,United States,2005,high
+475,589,Mitsubishi Electric,6503.T,31674896130,15.15,Japan,1951,high
+476,590,EQT,EQT.ST,31622041731,26.72,Sweden,2015,high
+477,591,Sun Life Financial,SLF,31592445952,53.96,Canada,2000,high
+478,592,CaixaBank,CABK.MC,31479284907,4.27,Spain,2018,high
+479,594,Halliburton,HAL,31429502976,35.31,United States,1948,high
+480,595,Thales,HO.PA,31291013741,151.53,France,2018,high
+481,596,Dollar Tree,DLTR,31236306944,143.37,United States,1995,high
+482,597,Daimler Truck,DTG.F,31196836235,38.18,Germany,2021,high
+483,598,HubSpot,HUBS,31088805888,613.5,United States,2014,high
+484,599,Dollar General,DG,31058825216,141.5,United States,1968,high
+485,600,Coca-Cola European Partners,CCEP,31050369024,67.6,United Kingdom,2016,high
+486,601,Indian Oil,IOC.NS,31030200267,2.25,India,1959,high
+487,602,Extra Space Storage,EXR,30931914752,141.57,United States,2004,high
+488,603,Orange,ORAN,30833266688,11.6,France,2001,high
+489,604,Powergrid Corporation of India,POWERGRID.NS,30801054441,3.31,India,1989,high
+490,605,Quanta Services,PWR,30719059968,211.44,United States,1998,high
+491,606,VICI Properties,VICI,30549671936,29.53,United States,2018,high
+492,607,Toyota Industries,6201.T,30520627555,98.3,Japan,1926,high
+493,608,Skandinaviska Enskilda Banken,SEB-A.ST,30517783303,14.72,Sweden,1856,high
+494,609,Quanta Computer,2382.TW,30513465427,7.92,Taiwan,1988,high
+495,610,ASM International,ASM.AS,30492618757,626.29,Netherlands,1981,high
+496,611,Anglo American,AAL.L,30371507139,22.71,United Kingdom,1917,high
+497,612,3i Group,III.L,30364707995,31.2,United Kingdom,1945,high
+498,613,Bayer,BAYN.DE,30282331211,30.82,Germany,1863,high
+499,614,Japan Post Holdings,6178.T,30262032513,9.37,Japan,2007,high
+500,615,Intact Financial,IFC.TO,30245259564,169.61,Canada,2009,high
+501,4332,Ascential,ASCL.L,1693505798,3.8,United Kingdom,2016,low
+502,4333,OFG Bancorp,OFG,1691516032,35.94,United States,2006,low
+503,4334,Pfeiffer Vacuum,PFV.F,1688250730,169.37,Germany,1996,low
+504,4335,Genesis Energy,GNE.NZ,1686439777,1.57,New Zealand,1996,low
+505,4336,Denison Mines,DNN,1684650752,1.93,Canada,1996,low
+506,4337,Action Construction Equipment,ACE.NS,1684620480,14.15,India,1997,low
+507,4338,Mitsui Fudosan Logistics Park,3471.T,1684446453,2924.39,Japan,2007,low
+508,4339,Fletcher Building,FBU.NZ,1684438980,2.15,New Zealand,2001,low
+509,4340,Finolex Industries,FINPIPE.NS,1684190117,2.72,India,2007,low
+510,4342,Customers Bancorp,CUBI,1682402560,53.51,United States,2010,low
+511,4343,First Pacific Company,0142.HK,1681040899,0.4,Hong Kong,1981,low
+512,4344,TKH Group,TWEKA.AS,1680901042,41.31,Netherlands,1989,low
+513,4345,Maire Tecnimont,MAIRE.MI,1679893226,5.13,Italy,2007,low
+514,4346,American Assets Trust,AAT,1678754560,21.78,United States,2011,low
+515,4347,Amplitude,AMPL,1678605056,14.1,United States,2021,low
+516,4348,VEON,VEON,1678470528,23.9,Netherlands,1996,low
+517,4349,KWS,KWS.F,1678140858,50.85,Germany,1985,low
+518,4350,Custom Truck One Source,CTOS,1675872000,6.9,United States,2017,low
+519,4351,Virtus Investment Partners,VRTS,1675827072,233.24,United States,1990,low
+520,4352,TS TECH,7313.T,1675825693,13.14,Japan,1986,low
+521,4353,AJ Bell,AJB.L,1672208643,4.06,United Kingdom,2018,low
+522,4354,Ero Copper,ERO,1669871488,16.27,Canada,2017,low
+523,4355,Lakeland Financial Corp,LKFN,1668756096,65.62,United States,1989,low
+524,4357,PROS,PRO,1667137280,35.67,United States,2007,low
+525,4358,Catalyst Pharmaceuticals,CPRX,1666909952,14.0,United States,2002,low
+526,4359,Peloton,PTON,1665603328,4.54,United States,2019,low
+527,4361,Hang Lung Group,0010.HK,1662865459,1.22,Hong Kong,1972,low
+528,4362,Montea Comm,MONT.BR,1660224002,82.2,Belgium,2006,low
+529,4364,Trustmark,TRMK,1659660416,27.17,United States,1988,low
+530,4365,Stabilus,STM.DE,1659227219,67.18,Luxembourg,2014,low
+531,4366,China Gold International Resources,CGG.TO,1658340733,4.18,Canada,2009,low
+532,4367,Banpu Public Company,BANPU.BK,1656821982,0.17,Thailand,1989,low
+533,4368,NBT Bancorp,NBTB,1653256192,35.11,United States,1986,low
+534,4369,Sanlorenzo,SL.MI,1652155273,46.06,Italy,2005,low
+535,4371,Borr Drilling,BORR,1649868416,6.51,Bermuda,2019,low
+536,4373,CoreCivic,CXW,1645901824,14.6,United States,1997,low
+537,4374,Barco NV,BAR.BR,1645111184,18.19,Belgium,1986,low
+538,4375,Compagnie Plastic Omnium,POM.PA,1643373020,11.42,France,1999,low
+539,4376,LOTTE Corporation,004990.KS,1642477363,22.91,South Korea,1994,low
+540,4377,Jeld-Wen,JELD,1639538560,19.24,United States,2017,low
+541,4378,BlackBerry,BB,1638726016,2.79,Canada,1999,low
+542,4379,Gentherm,THRM,1638175232,49.95,United States,2001,low
+543,4380,Hornbach Baumarkt,HBM.HM,1634597524,51.39,Germany,1987,low
+544,4381,Stelco,STLC.TO,1633996997,29.64,Canada,2004,low
+545,4382,National Vision Holdings,EYE,1632985728,20.87,United States,2017,low
+546,4383,Eve Air Mobility,EVEX,1629622016,6.05,United States,2021,low
+547,4384,Retail Opportunity Investments,ROIC,1628204032,12.82,United States,2009,low
+548,4385,V-Guard Industries,VGUARD.NS,1627661731,3.75,India,2008,low
+549,4386,Peab,PEAB-B.ST,1627604316,5.63,Sweden,1970,low
+550,4387,La-Z-Boy,LZB,1626904320,38.03,United States,1970,low
+551,4389,Kuwait Projects Company Holding,KPROJ.KW,1624460883,357.14,Kuwait,1982,low
+552,4391,Kahoot!,KAHOT.OL,1623700519,3.29,Norway,2019,low
+553,4394,Jindal Stainless (Hisar),JSLHISAR.NS,1620413272,6.87,India,2018,low
+554,4395,Protagonist Therapeutics,PTGX,1617870720,28.05,United States,2016,low
+555,4396,NAPCO Security Technologies,NSSC,1617304576,43.97,United States,1994,low
+556,4397,Kimbell Royalty Partners,KRP,1616826112,15.71,United States,2017,low
+557,4398,Shutterstock,SSTK,1614209536,45.2,United States,2012,low
+558,4399,Parex Resources,PXT.TO,1613228024,15.44,Canada,2017,low
+559,4400,TANLA,TANLA.NS,1612117037,11.99,India,2018,low
+560,4401,Sapiens,SPNS,1611783936,28.92,Israel,1991,low
+561,4402,Grupa Kety,KTY.WA,1610183383,166.86,Poland,1997,low
+562,4404,Amber Enterprises India,AMBER.NS,1609659525,47.77,India,2017,low
+563,4406,Global Partners LP,GLP,1607922048,47.34,United States,2005,low
+564,4407,NexPoint Residential,NXRT,1604520576,31.08,United States,2015,low
+565,4408,Dynavax Technologies,DVAX,1604129024,12.41,United States,2004,low
+566,4409,Summerset Holdings,SUM.NZ,1603546334,6.84,New Zealand,2011,low
+567,4410,MaxLinear,MXL,1603297792,19.57,United States,2010,low
+568,4411,Grand City Properties,GYC.DE,1602384846,9.3,Luxembourg,2011,low
+569,4412,Exchange Income Corporation,EIF.TO,1601452603,34.32,Canada,2004,low
+570,4413,TTM Technologies,TTMI,1600134272,15.65,United States,2000,low
+571,4414,CIMC Enric,3899.HK,1599888562,0.79,China,2007,low
+572,4416,Aksa Energy,AKSEN.IS,1597279764,1.3,Turkey,2006,low
+573,4417,Altus Group,AIF.TO,1597010675,35.13,Canada,2005,low
+574,4418,Ready Capital,RC,1596706048,9.2,United States,2007,low
+575,4419,Arion banki,ARION.IC,1593762889,1.1,Iceland,2010,low
+576,4420,Tandem Diabetes Care,TNDM,1592420864,24.42,United States,2013,low
+577,4421,Asahi India Glass,ASAHIINDIA.NS,1592373934,6.55,India,1985,low
+578,4424,Trulieve Cannabis,TRUL.CN,1590587604,8.55,United States,2018,low
+579,4425,Applus Services,APPS.MC,1590456645,12.34,Spain,2014,low
+580,4427,Autolus Therapeutics,AUTL,1586759296,6.83,United Kingdom,2018,low
+581,4428,Telephone and Data Systems,TDS,1586519936,14.04,United States,1969,low
+582,4429,Cracker Barrel,CBRL,1586234624,71.5,United States,1981,low
+583,4431,Taro Pharmaceutical,TARO,1585318400,42.18,Israel,1991,low
+584,4432,Forestar Group,FOR,1583752192,31.73,United States,2013,low
+585,4433,REN (Redes Energéticas Nacionais),RENE.LS,1582933747,2.39,Portugal,2012,low
+586,4435,China Zheshang Bank,2016.HK,1581828192,0.27,China,2016,low
+587,4436,Assura Plc,AGR.L,1581709402,0.53,United Kingdom,2007,low
+588,4437,NETSCOUT,NTCT,1581241472,22.26,United States,1999,low
+589,4438,BEML,BEML.NS,1576653344,37.86,India,1992,low
+590,4439,Archer Aviation,ACHR,1576076544,5.24,United States,2021,low
+591,4440,Central Plaza Hotel,CENTEL.BK,1575875437,1.17,Thailand,1983,low
+592,4441,Fidelis Insurance,FIHL,1571806976,13.33,Bermuda,2018,low
+593,4443,Ramkrishna Forgings,RKFORGE.NS,1570037992,8.69,India,2018,low
+594,4444,Kura Oncology,KURA,1569944960,20.62,United States,2015,low
+595,4445,JBG SMITH,JBGS,1568526208,16.39,United States,2017,low
+596,4446,CSG International,CSGS,1568331648,53.09,United States,1996,low
+597,4447,Extreme Networks,EXTR,1565356800,12.16,United States,1999,low
+598,4448,Tauron Polska,TPE.WA,1563897883,0.89,Poland,2004,low
+599,4449,Gujarat Mineral Development,GMDCLTD.NS,1562546220,4.91,India,1993,low
+600,4450,Indian Energy Exchange,IEX.NS,1560564280,1.75,India,2017,low
+601,4451,Marten Transport,MRTN,1560381184,19.19,United States,1986,low
+602,4453,Oxford Industries,OXM,1556728704,99.63,United States,1960,low
+603,4454,Freehold Royalties,FRU.TO,1555793858,10.32,Canada,1996,low
+604,4455,Kakao Games,293490.KQ,1555025521,19.04,South Korea,2020,low
+605,4456,XPEL,XPEL,1553854976,56.24,United States,2019,low
+606,4457,Lumen,LUMN,1553705856,1.54,United States,2020,low
+607,4458,Supernus Pharmaceuticals,SUPN,1552664192,28.42,United States,2012,low
+608,4459,Apollo Commercial Real Estate,ARI,1551699200,10.92,United States,2009,low
+609,4460,Wilh. Wilhelmsen Holding,WWI.OL,1551303863,35.35,Norway,2010,low
+610,4461,Banner Bank,BANR,1551173760,45.16,United States,1997,low
+611,4462,AtriCure,ATRC,1550767744,32.72,United States,2005,low
+612,4463,AbCellera,ABCL,1549507712,5.34,Canada,2020,low
+613,4519,Allegiant Air,ALGT,1493257472,81.15,United States,2006,low
+614,4521,Helix Energy Solutions,HLX,1491667968,9.8,United States,1996,low
+615,4523,Agios Pharmaceuticals,AGIO,1489724160,26.51,United States,2013,low
+616,4525,Salzgitter,SZG.F,1487129504,27.34,Germany,1998,low
+617,4526,Genus,GNS.L,1485831805,22.5,United Kingdom,1994,low
+618,4527,Helios Technologies,HLIO,1485732352,44.95,United States,2006,low
+619,4528,Jack in the Box,JACK,1485361664,75.95,United States,1961,low
+620,4530,Trisura Group,TSU.TO,1484209180,31.29,Canada,2017,low
+621,4531,American Woodmark,AMWD,1484204928,92.61,United States,1986,low
+622,4532,Vaisala,VAIAS.HE,1484156394,40.94,Finland,2001,low
+623,4534,Knowles,KN,1483396736,16.65,United States,2014,low
+624,4535,Canadian Solar,CSIQ,1483151360,22.94,Canada,2006,low
+625,4536,ProSiebenSat.1 Media,PSM.F,1482619296,6.46,Germany,2000,low
+626,4538,Green Plains,GPRE,1480651776,23.04,United States,2004,low
+627,4539,UFP Technologies,UFPT,1476429184,193.28,United States,1993,low
+628,4540,Labrador Iron Ore Royalty Corp.,LIF.TO,1475864115,23.06,Canada,1995,low
+629,4542,Kontron AG,KTN.F,1475028135,23.38,Austria,1999,low
+630,4543,Engineers India,ENGINERSIN.NS,1473283788,2.62,India,1993,low
+631,4545,Vtech,0303.HK,1470977224,5.82,Hong Kong,1988,low
+632,4546,Tokai Carbon,5301.T,1470153530,6.9,Japan,1961,low
+633,4547,Xencor,XNCR,1470136064,24.15,United States,2013,low
+634,4548,KCC Corp,002380.KS,1469651716,199.84,South Korea,1988,low
+635,4550,OdontoPrev,ODPV3.SA,1468339161,2.66,Brazil,2006,low
+636,4551,The Chefs' Warehouse,CHEF,1468008960,37.01,United States,2011,low
+637,4552,Monex Group,8698.T,1466935865,5.72,Japan,1999,low
+638,4553,MeridianLink,MLNK,1464086400,19.2,United States,2020,low
+639,4554,First Bancorp,FBNC,1463515904,35.6,United States,1987,low
+640,6481,First Bancorp,FNLC,274123072,24.7,United States,1987,low
+641,4555,Getty Realty,GTY,1463362688,27.12,United States,1996,low
+642,4556,Cannae Holdings,CNNE,1463031296,20.69,United States,2017,low
+643,4557,Zensar,ZENSARTECH.NS,1462697942,6.46,India,2002,low
+644,4558,OneSpaWorld,OSW,1462694144,14.64,Bahamas,2019,low
+645,4559,Redefine Properties,RDF.JO,1461733700,0.21,South Africa,2000,low
+646,4560,Southern Province Cement Company,3050.SR,1461634984,10.44,Saudi Arabia,2008,low
+647,4561,First Watch Restaurant,FWRG,1460745856,24.42,United States,1993,low
+648,4562,Verbio,VBK.F,1460018946,22.47,Germany,2006,low
+649,4563,Hawkins,HWKN,1459126272,69.66,United States,1974,low
+650,4567,Anant Raj,ANANTRAJ.NS,1455484228,4.27,India,2007,low
+651,4568,D/S Norden (Dampskibsselskabet Norden),DNORD.CO,1454391442,46.31,Denmark,2010,low
+652,4569,Heartland Financial USA,HTLF,1453953280,34.06,United States,1982,low
+653,4572,Pacific Basin Shipping,2343.HK,1453554785,0.28,Hong Kong,2004,low
+654,4573,Momentum Metropolitan,MTM.JO,1452961800,1.07,South Africa,2017,low
+655,4574,Leslie's,LESL,1452117248,7.87,United States,2021,low
+656,4576,G-III Apparel Group,GIII,1450025344,31.71,United States,1989,low
+657,4577,Tilray,TLRY,1449812992,1.92,Canada,2018,low
+658,4578,Ingles Markets,IMKTA,1448892800,76.28,United States,1987,low
+659,4580,Al Yah Satellite Communications Company,YAHSAT.AE,1448289723,0.59,United Arab Emirates,2005,low
+660,4582,Equinox Gold,EQX,1443305088,4.6,Canada,2018,low
+661,4584,Canfor,CFP.TO,1442510441,12.08,Canada,1991,low
+662,4585,World Kinect,WKC,1441833216,23.95,United States,2016,low
+663,4586,Austevoll Seafood,AUSS.OL,1441290466,7.14,Norway,2006,low
+664,4589,Hypoport,HYQ.F,1439489128,215.26,Germany,2015,low
+665,4592,Enghouse Systems,ENGH.TO,1435310939,25.98,Canada,1984,low
+666,4593,Magnite,MGNI,1435028992,10.41,United States,2017,low
+667,4595,Zhuzhou CRRC Times Electric,3898.HK,1429058693,2.63,Hong Kong,2006,low
+668,4596,Sally Beauty Holdings,SBH,1428520064,13.62,United States,2006,low
+669,4597,Alfen,ALFEN.AS,1426492199,61.43,Netherlands,2018,low
+670,4599,Taboola.com,TBLA,1425582464,4.78,United States,2021,low
+671,4600,Anima Holding,ANIM.MI,1425503552,4.51,Italy,2015,low
+672,4601,GasLog,GLOG-PA,1425414272,26.05,Greece,2012,low
+673,4602,Bank of N. T. Butterfield & Son,NTB,1424353024,30.37,Bermuda,2016,low
+674,4604,ZipRecruiter,ZIP,1421221376,14.38,United States,2014,low
+675,4605,Dorian LPG,LPG,1420870528,34.99,United States,2013,low
+676,4606,CTS Corporation,CTS,1419870080,45.57,United States,1983,low
+677,4608,3R Petroleum,RRRP3.SA,1419518144,5.91,Brazil,2007,low
+678,4609,Qassim Cement Company,3040.SR,1417844745,15.75,Saudi Arabia,2012,low
+679,4610,Network18,NETWORK18.NS,1416655609,1.35,India,2006,low
+680,4612,Rai Way,RWAY.MI,1415360996,5.27,Italy,2006,low
+681,4613,Bajaj Electricals,BAJAJELEC.NS,1415041945,12.29,India,1960,low
+682,4615,Kennedy Wilson,KW,1412030976,10.13,United States,2009,low
+683,4616,Gulf International Services,GISS.QA,1411676835,0.76,Qatar,2008,low
+684,4617,Coats Group,COA.L,1411196533,0.88,United Kingdom,2013,low
+685,4618,SPARC,SPARC.NS,1410030190,4.34,India,2018,low
+686,4619,The North West Company,NWC.TO,1409593971,29.56,Canada,1974,low
+687,4621,CEAT,CEATLTD.NS,1407782234,34.8,India,1965,low
+688,4622,RSA Insurance Group,RSAB.L,1407606824,1.38,United Kingdom,2018,low
+689,4624,SM Entertainment,041510.KQ,1405058279,60.18,South Korea,2000,low
+690,4625,Stock Yards Bancorp,SYBT,1404519040,47.9,United States,1984,low
+691,4626,Betsson AB,BETS-B.ST,1404175210,9.97,Sweden,2001,low
+692,4627,Kiniksa Pharmaceuticals,KNSA,1402547712,19.94,Bermuda,2018,low
+693,4628,Pharvaris,PHVS,1401724032,26.9,Netherlands,2018,low
+694,4629,Olaplex,OLPX,1401128704,2.14,United States,2020,low
+695,4630,Sage Therapeutics,SAGE,1398682880,23.27,United States,2014,low
+696,4631,Humansoft Holding Company,HUMANSOFT.KW,1395568208,10925.3,Kuwait,2006,low
+697,4632,Corsair Gaming,CRSR,1394335616,13.54,United States,2020,low
+698,4634,Danaos,DAC,1393730560,71.67,Greece,2006,low
+699,4635,Sihanoukville Autonomous Port,PAS.KH,1393214461,3.09,Cambodia,2017,low
+700,4636,LeMaitre Vascular,LMAT,1392563200,62.55,United States,2006,low
+701,4637,Unipar Carbocloro,UNIP6.SA,1391667089,13.75,Brazil,2007,low
+702,4638,PROG Holdings,PRG,1391310720,31.11,United States,2020,low
+703,4640,Net One Systems,7518.T,1387423213,17.5,Japan,2005,low
+704,4641,Sweetgreen,SG,1385088256,12.32,United States,2021,low
+705,4642,Atea ASA,ATEA.OL,1383434776,12.41,Norway,2001,low
+706,4643,NextDecade Corp,NEXT,1382993024,5.39,United States,2017,low
+707,4644,EyePoint Pharmaceuticals,EYPT,1382626432,28.31,United States,2019,low
+708,4645,Docebo,DCBO,1381709184,45.55,Canada,2019,low
+709,4646,Relay Therapeutics,RLAY,1381688064,10.84,United States,2021,low
+710,4648,First Commonwealth Financial Corp,FCF,1381615872,13.53,United States,1983,low
+711,4649,Sunnova,NOVA,1379628416,11.27,United States,2019,low
+712,4650,Fortress REIT,FFA.JO,1379223800,0.82,South Africa,2007,low
+713,4651,Vir Biotechnology,VIR,1378840192,10.25,United States,2019,low
+714,4652,Hope Bancorp,HOPE,1377856768,11.47,United States,2011,low
+715,4653,Liberty Latin America,LILA,1377747072,6.65,United States,2017,low
+716,4654,SpareBank 1,SPOL.OL,1377736989,11.9,Norway,1993,low
+717,4656,Verona Pharma,VRNA,1374968064,17.2,United Kingdom,2017,low
+718,4657,Kenon Holdings,KEN,1371073536,25.44,Singapore,2005,low
+719,4660,Mirum Pharmaceuticals,MIRM,1364866688,29.28,United States,2018,low
+720,4662,GDS Holdings,GDS,1361881344,6.87,China,2016,low
+721,4663,Lindsay Corporation,LNN,1361654272,123.44,United States,1971,low
+722,4664,Skyward Specialty Insurance Group,SKWD,1359714176,34.14,United States,2021,low
+723,4665,Thoughtworks,TWKS,1359678976,4.27,United States,2021,low
+724,4667,Life Healthcare Group,LHC.JO,1359381200,0.94,South Africa,2010,low
+725,4668,LTC Properties,LTC,1358481152,31.51,United States,1992,low
+726,4670,Aavas Financiers,AAVAS.NS,1356636347,17.14,India,2018,low
+727,4671,Graphite India,GRAPHITE.NS,1356212104,6.94,India,2006,low
+728,4672,Ladder Capital,LADR,1354801920,10.7,United States,2014,low
+729,4673,Caleres,CAL,1354763904,38.16,United States,1978,low
+730,4674,Champion REIT,2778.HK,1353110335,0.23,Hong Kong,2006,low
+731,4675,Yanbu Cement Company,3060.SR,1352059177,8.58,Saudi Arabia,2012,low
+732,4676,Orion Engineered Carbons,OEC,1350779008,23.33,United States,2011,low
+733,4677,Calumet Specialty Products Partners,CLMT,1350649344,16.89,United States,2006,low
+734,4678,Pacira Biosciences,PCRX,1350408320,29.08,United States,2007,low
+735,4680,Polenergia,PEP.WA,1349383201,17.47,Poland,2010,low
+736,4681,eClerx Services,ECLERX.NS,1349163626,27.96,India,2007,low
+737,4682,Kforce,KFRC,1348551808,68.25,United States,1995,low
+738,4683,China Lesso Group,2128.HK,1348516140,0.43,China,2010,low
+739,4684,Jinko Solar,JKS,1347862528,26.34,China,2010,low
+740,4685,4D Molecular Therapeutics,FDMT,1344967552,27.26,United States,2020,low
+741,4686,Knowledge Economic City Company,4310.SR,1344472525,3.96,Saudi Arabia,2006,low
+742,4687,Corticeira Amorim,COR.LS,1344085639,10.11,Portugal,1988,low
+743,4688,Guess,GES,1343044480,25.01,United States,1996,low
+744,4689,VTEX,VTEX,1342948736,7.15,United Kingdom,2021,low
+745,4690,Couchbase,BASE,1342639744,27.93,United States,2021,low
+746,4691,NW Natural,NWN,1342040192,36.49,United States,1995,low
+747,4692,PDF Solutions,PDFS,1341827328,35.07,United States,2001,low
+748,4694,Aspen Aerogels,ASPN,1340135296,17.56,United States,2014,low
+749,4695,Befesa,BFSA.DE,1338557273,33.4,Luxembourg,2017,low
+750,4697,Maravai LifeSciences,MRVI,1334312704,5.31,United States,2020,low
+751,4699,John Wood Group,WG.L,1333644531,1.91,United Kingdom,2002,low
+752,4700,Dis-Chem Pharmacies,DCP.JO,1333078000,1.55,South Africa,2016,low
+753,4701,Granules India,GRANULES.NS,1332115918,5.49,India,1995,low
+754,4702,POINT Biopharma,PNT,1332112512,12.5,United States,2018,low
+755,4704,Two Harbors Investment,TWO,1325165056,12.84,United States,2009,low
+756,4705,Ichor Systems,ICHR,1324593024,45.0,United States,2014,low
+757,4706,Ingersoll Rand India,INGERRAND.NS,1321118069,41.81,India,2002,low
+758,4707,Rush Street Interactive,RSI,1320254080,5.94,United States,2020,low
+759,4708,Air New Zealand,ANZFF,1317628800,0.39117,New Zealand,1989,low
+760,4710,Electrosteel Castings,ELECTCAST.NS,1315801012,2.12,India,2018,low
+761,4712,Pathward Financial,CASH,1314560512,51.57,United States,2021,low
+762,4713,Belite Bio,BLTE,1313997952,47.61,United States,2021,low
+763,4714,Costamare,CMRE,1312856704,11.15,Monaco,2010,low
+764,4716,First Majestic Silver,AG,1310440960,4.55,Canada,2003,low
+765,4718,Alony Hetz,ALHE.TA,1309210054,7.28,Israel,2004,low
+766,4719,Polymetal,PM6A.F,1308353833,2.03,Cyprus,2002,low
+767,4721,Gimv NV,GIMB.BR,1308118711,46.92,Belgium,1997,low
+768,4723,Shinsegae,004170.KS,1307274646,138.54,South Korea,2004,low
+769,4724,Tamarack Valley Energy,TVE.TO,1304865343,2.34,Canada,2010,low
+770,4726,Boursa Kuwait Securities Company,BOURSA.KW,1301132779,6480.52,Kuwait,2020,low
+771,4727,PeptiDream,4587.T,1300868586,10.04,Japan,2013,low
+772,4728,National Bank Holdings,NBHC,1299800576,34.4,United States,2012,low
+773,4729,Omnicell,OMCL,1299515392,28.58,United States,2001,low
+774,4732,AS ONE Corporation,7476.T,1295827708,35.79,Japan,2003,low
+775,4733,Vivid Seats,SEAT,1292121088,6.15,United States,2021,low
+776,4734,DAQO New Energy,DQ,1290211200,19.62,China,2010,low
+777,4736,NOW Inc.,DNOW,1288855296,12.14,United States,2014,low
+778,4738,Intershop Holding,ISN.SW,1288647929,699.02,Switzerland,1998,low
+779,4739,Vetoquinol,VETO.PA,1287753476,108.82,France,2006,low
+780,4740,Advantage Solutions,ADV,1285992320,3.94,United States,2016,low
+781,4741,Gaotu Techedu,GOTU,1285117824,4.93,China,2019,low
+782,4742,Service Properties Trust,SVC,1284717440,7.75,United States,2018,low
+783,4743,Ligand Pharmaceuticals,LGND,1284335872,73.66,United States,1991,low
+784,4744,First Busey,BUSE,1282215552,23.21,United States,1980,low
+785,4746,Semtech,SMTC,1280553216,19.92,United States,1995,low
+786,4747,Nagarro,NA9.DE,1280294843,96.1,Germany,2006,low
+787,4749,Netstreit,NTST,1277240064,17.33,United States,2021,low
+788,4751,HBM Healthcare Investments,HBMN.SW,1274182532,184.36,Switzerland,2005,low
+789,4753,Caverion,CAV1V.HE,1271848252,9.32,Finland,2006,low
+790,4754,Investcorp Capital,ICAP.AE,1271075934,0.58,United Arab Emirates,1992,low
+791,4755,Canada Goose,GOOS,1269788288,13.07,Canada,2017,low
+792,4756,Iamgold,IAG,1268551936,2.57,Canada,2005,low
+793,4757,Maytronics,MTRN.TA,1267032489,11.55,Israel,1992,low
+794,4759,Deciphera Pharmaceuticals,DCPH,1266137472,15.67,United States,2017,low
+795,4761,Nokian Tyres,TYRES.HE,1263747529,9.17,Finland,1995,low
+796,4762,Diebold Nixdorf,DBD,1263368192,33.63,United States,1981,low
+797,4763,Suburban Propane Partners,SPH,1262478336,19.72,United States,1996,low
+798,4764,Indiabulls Housing Finance,IBULHSGFIN.NS,1258657780,2.28,India,2004,low
+799,4766,Alignment Healthcare,ALHC,1255623936,6.64,United States,2019,low
+800,4767,Gogo Inflight Internet,GOGO,1254911360,9.74,United States,2013,low
+801,4768,NCC,NCC-B.ST,1253281580,12.88,Sweden,1994,low
+802,4770,Columbus McKinnon,CMCO,1252898944,43.57,United States,1996,low
+803,4771,Precinct Properties,PCT.NZ,1250232729,0.75,New Zealand,1997,low
+804,4772,City Union Bank,CUB.NS,1248039164,1.69,India,1998,low
+805,4773,Westamerica Bancorporation,WABC,1246069120,46.72,United States,1972,low
+806,4776,E2open,ETWO,1245416064,4.07,United States,2012,low
+807,4777,MDA Ltd.,MDA.TO,1241937896,10.4,Canada,1995,low
+808,4869,Akero Therapeutics,AKRO,1163777664,20.89,United States,2019,low
+809,4870,GVS S.p.A.,GVS.MI,1163611390,6.66,Italy,2021,low
+810,4871,Camping World,CWH,1163389568,25.98,United States,2016,low
+811,4873,IntegraFin,IHP.L,1162154043,3.47,United Kingdom,2018,low
+812,4874,Definitive Healthcare,DH,1162116736,9.99,United States,2020,low
+813,4875,Brookdale Senior Living,BKD,1161428480,6.17,United States,2005,low
+814,4876,Infinera,INFN,1159581696,5.11,United States,2007,low
+815,4877,Cricut,CRCT,1159393408,5.29,United States,2021,low
+816,4881,Voltalia,VLTSA.PA,1156591366,8.5,France,2014,low
+817,4882,REV Group,REVG,1156535936,19.34,United States,2017,low
+818,4883,Fortune REIT,0778.HK,1156449997,0.57,Hong Kong,2003,low
+819,4884,Employers Holdings,EIG,1154573952,45.02,United States,2007,low
+820,4885,Infibeam Avenues,INFIBEAM.NS,1153844731,0.42,India,2016,low
+821,4891,Perdoceo Education,PRDO,1150852096,17.52,United States,2009,low
+822,4892,Paramount Group,PGRE,1150828544,4.86,United States,2014,low
+823,4893,Kura Sushi USA,KRUS,1150590976,103.07,United States,2019,low
+824,4895,Ecovyst,ECVT,1149558272,9.9,United States,2018,low
+825,4897,Mastek,MASTEK.NS,1148346744,37.25,India,1986,low
+826,4899,Centessa Pharmaceuticals,CNTA,1147144192,11.75,United Kingdom,2021,low
+827,4900,Scholar Rock Holding,SRRK,1144914048,15.87,United States,2018,low
+828,4904,Altus Power,AMPS,1139958272,7.17,United States,2021,low
+829,4905,Dalata Hotel Group,DHG.IR,1139941795,5.09,Ireland,2014,low
+830,4906,Navitas Semiconductor,NVTS,1135215104,6.34,Ireland,2021,low
+831,4907,RPT Realty,RPT,1133000704,12.83,United States,2003,low
+832,4908,Mixi,2121.T,1132326213,16.11,Japan,2006,low
+833,4909,Triumph Group,TGI,1127625600,14.67,United States,1996,low
+834,4911,Avidity Biosciences,RNA,1126108928,14.18,United States,2021,low
+835,4912,Oxford Lane Capital,OXLC,1125908096,5.09,United States,2011,low
+836,4914,THG (The Hut Group),THG.L,1124983888,0.85,United Kingdom,2020,low
+837,4915,Sabre,SABR,1123263744,2.96,United States,2014,low
+838,4919,ChemoMetec,CHEMM.CO,1117220062,64.2,Denmark,2021,low
+839,4920,Aimco,AIV,1116521600,7.66,United States,1994,low
+840,4921,Innergex Renewable Energy,INE.TO,1116508094,5.46,Canada,2003,low
+841,4923,Veritex Holdings,VBTX,1115015808,20.52,United States,2014,low
+842,4924,Magellan Financial Group,MFG.AX,1112819530,6.15,Australia,2004,low
+843,4925,Easterly Government Properties,DEA,1111946496,11.68,United States,2015,low
+844,4926,Cymbria,CYB.TO,1111418341,49.03,Canada,2008,low
+845,4927,Mahindra Lifespaces,MAHLIFE.NS,1111269979,7.15,India,2010,low
+846,4928,Viridian Therapeutics,VRDN,1110360320,18.59,United States,2021,low
+847,4930,Bukalapak.com,BUKA.JK,1109312149,0.01,Indonesia,2021,low
+848,4933,MFA Financial,MFA,1107826944,10.87,United States,1997,low
+849,4934,Praj Industries,PRAJIND.NS,1107735771,6.02,India,1994,low
+850,4935,Quanex Building Products,NX,1107315456,33.45,United States,1972,low
+851,4937,Liquidia Technologies,LQDA,1106098432,14.59,United States,2018,low
+852,4939,Neuland Laboratories,NEULANDLAB.NS,1105361766,86.15,India,1994,low
+853,4941,Europris,EPR.OL,1103411802,6.85,Norway,2015,low
+854,4943,Craftsman Automation,CRAFTSMAN.NS,1102659263,51.98,India,2021,low
+855,4944,PNE AG,PNE3.DE,1102070733,14.44,Germany,2003,low
+856,4945,Energiekontor,EKT.DE,1101810022,78.97,Germany,2000,low
+857,4947,Centerra Gold,CGAU,1100957440,5.1,Canada,1992,low
+858,4949,Orla Mining,ORLA,1099749632,3.48,Canada,2020,low
+859,4950,PRA Group,PRAA,1098915968,28.0,United States,2002,low
+860,4951,WisdomTree,WT,1097409024,7.3,United States,2006,low
+861,4952,Bystronic AG,BYS.SW,1096550743,530.23,Switzerland,2021,low
+862,4954,Central Securities,CET,1094633600,38.56,United States,2010,low
+863,4955,Scatec ASA,SCATC.OL,1094103490,6.88,Norway,2014,low
+864,4958,TaskUs,TASK,1092379904,12.23,United States,2021,low
+865,4959,Geron,GERN,1091558656,2.01,United States,1996,low
+866,4960,Perion Network,PERI,1091316480,23.2,Israel,1999,low
+867,4961,Diagnosticos da America,DASA3.SA,1090499696,1.46,Brazil,2006,low
+868,4964,Establishment Labs,ESTA,1087676032,40.0,Costa Rica,2018,low
+869,4966,Galaxy Surfactants,GALAXYSURF.NS,1084303489,30.58,India,2018,low
+870,4967,Benchmark Electronics,BHE,1082945664,30.35,United States,1980,low
+871,4969,Rajesh Exports,RAJESHEXPO.NS,1081169735,3.66,India,1995,low
+872,4970,CropEnergies,CE2.F,1080545504,12.39,Germany,2006,low
+873,4975,Amylyx Pharmaceuticals,AMLX,1072182656,15.88,United States,2021,low
+874,4976,Golden Entertainment,GDEN,1071977792,37.46,United States,2014,low
+875,4977,MacroGenics,MGNX,1071868096,17.28,United States,2001,low
+876,4979,Terveystalo,TTALO.HE,1070347648,8.46,Finland,2017,low
+877,4980,Agiliti,AGTI,1069312896,7.93,United States,2021,low
+878,4981,Chimera Investment Corporation,CIM,1069229184,4.43,United States,2007,low
