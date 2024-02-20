@@ -1,0 +1,527 @@
+,Name,Symbol,CIK
+0,Microsoft,MSFT,789019
+1,Apple,AAPL,320193
+2,NVIDIA,NVDA,1045810
+3,Amazon,AMZN,1018724
+4,Alphabet (Google),GOOG,1652044
+5,Berkshire Hathaway,BRK-B,1067983
+6,Eli Lilly,LLY,59478
+7,TSMC,TSM,1046179
+8,Novo Nordisk,NVO,353278
+9,JPMorgan Chase,JPM,19617
+10,UnitedHealth,UNH,731766
+11,Walmart,WMT,104169
+12,Exxon Mobil,XOM,34088
+13,Johnson & Johnson,JNJ,200406
+14,Procter & Gamble,PG,80424
+15,ASML,ASML,937966
+16,Home Depot,HD,354950
+17,Tencent,TCEHY,2000991
+18,Merck,MRK,310158
+19,Costco,COST,909832
+20,Toyota,TM,1094517
+21,Oracle,ORCL,1341439
+22,Chevron,CVX,93410
+23,AMD,AMD,2488
+24,Salesforce,CRM,1108524
+25,Bank of America,BAC,70858
+26,Coca-Cola,KO,21344
+27,Netflix,NFLX,1065280
+28,Adobe,ADBE,796343
+29,Accenture,ACN,1467373
+30,Pepsico,PEP,77476
+31,Thermo Fisher Scientific,TMO,97745
+32,McDonald,MCD,63908
+33,SAP,SAP,1000184
+34,Walt Disney,DIS,1744489
+35,PetroChina,601857.SS,1108329
+36,AstraZeneca,AZN,901832
+37,Abbott Laboratories,ABT,1800
+38,Cisco,CSCO,858877
+39,T-Mobile US,TMUS,1283699
+40,Wells Fargo,WFC,72971
+41,Danaher,DHR,313616
+42,Intel,INTC,50863
+43,Intuit,INTU,896878
+44,IBM,IBM,51143
+45,QUALCOMM,QCOM,804328
+46,Verizon,VZ,732712
+47,Applied Materials,AMAT,6951
+48,Comcast,CMCSA,1166691
+49,Caterpillar,CAT,18230
+50,Nike,NKE,320187
+51,Pfizer,PFE,78003
+52,American Express,AXP,4962
+53,Amgen,AMGN,318154
+54,Union Pacific Corporation,UNP,100885
+55,Texas Instruments,TXN,97476
+56,Siemens,SIE.DE,940418
+57,Morgan Stanley,MS,895421
+58,Royal Bank Of Canada,RY,1000275
+59,HDFC Bank,HDB,1144967
+60,Intuitive Surgical,ISRG,1035267
+61,S&P Global,SPGI,64040
+62,Stryker Corporation,SYK,310764
+63,Inditex,IDEXY,1438656
+64,Lowe's Companies,LOW,60667
+65,ConocoPhillips,COP,1163165
+66,Honeywell,HON,773840
+67,Booking Holdings (Booking.com),BKNG,1075531
+68,Unilever,UL,217410
+69,United Parcel Service,UPS,1090727
+70,Prologis,PLD,1045609
+71,Airbus,AIR.PA,1145458
+72,Goldman Sachs,GS,886982
+73,Boeing,BA,12927
+74,Anheuser-Busch Inbev,BUD,1668717
+75,Lam Research,LRCX,707549
+76,AT&T,T,732717
+77,Raytheon Technologies,RTX,101829
+78,Deutsche Telekom,DTE.DE,946770
+79,BlackRock,BLK,1364742
+80,Charles Schwab,SCHW,316709
+81,Nextera Energy,NEE,753308
+82,Sanofi,SNY,1121404
+83,Petrobras,PBR,1119639
+84,Medtronic,MDT,1613103
+85,Rio Tinto,RIO,863064
+86,TJX Companies,TJX,109198
+87,Keyence,6861.T,
+88,Progressive,PGR,80661
+89,Sony,SONY,313838
+90,Tokyo Electron,8035.T,1469524
+91,Vertex Pharmaceuticals,VRTX,875320
+92,Toronto Dominion Bank,TD,947263
+93,Starbucks,SBUX,829224
+94,Citigroup,C,831001
+95,Allianz,ALV.DE,1127508
+96,Regeneron Pharmaceuticals,REGN,872589
+97,Automatic Data Processing,ADP,8670
+98,Lockheed Martin,LMT,936468
+99,Deere & Company,DE,315189
+100,Bristol-Myers Squibb,BMY,14272
+101,BP,BP,313807
+102,Cigna,CI,1739940
+103,Marsh & McLennan Companies,MMC,62709
+104,China Life Insurance,601628.SS,1268896
+105,CVS Health,CVS,64803
+106,Mondelez,MDLZ,1103982
+107,Air Liquide,AI.PA,1575915
+108,Boston Scientific,BSX,885725
+109,Ping An Insurance,601318.SS,1693007
+110,Analog Devices,ADI,6281
+111,EssilorLuxottica,EL.PA,
+112,CSL,CSL.AX,1415376
+113,KLA,KLAC,319201
+114,Gilead Sciences,GILD,882095
+115,Fiserv,FI,844806
+116,Micron Technology,MU,723125
+117,American Tower,AMT,1053507
+118,ICICI Bank,IBN,1103838
+119,Fast Retailing,9983.T,1446595
+120,GlaxoSmithKline,GSK,1131399
+121,Infosys,INFY,1067491
+122,Synopsys,SNPS,883241
+123,Mitsubishi Corporation,8058.T,877197
+124,ABB,ABBN.SW,1.41E+13
+125,Canadian National Railway,CNI,16868
+126,CNOOC,0883.HK,2.01E+13
+127,HCA Healthcare,HCA,860730
+128,Shin-Etsu Chemical,4063.T,1442651
+129,Diageo,DEO,835403
+130,SoftBank,9984.T,862475
+131,State Bank of India,SBIN.NS,1036627
+132,Waste Management,WM,823768
+133,RELX,RELX,929869
+134,Equinix,EQIX,1101239
+135,Canadian Pacific Railway,CP,16875
+136,Bharti Airtel,BHARTIARTL.NS,1622449
+137,Porsche,P911.DE,1163165
+138,Sherwin-Williams,SHW,89800
+139,Cadence Design Systems,CDNS,813672
+140,CME Group,CME,1156375
+141,Atlas Copco,ATCO-B.ST,799984
+142,SK Hynix,000660.KS,
+143,Illinois Tool Works,ITW,49826
+144,Hitachi,6501.T,931653
+145,AXA,CS.PA,1358940
+146,BMW,BMW.DE,1126530
+147,General Dynamics,GD,40533
+148,Investor AB,INVE-B.ST,1211894
+149,Zurich Insurance Group,ZURN.SW,1127799
+150,Enbridge,ENB,895728
+151,Merck KGaA,MRK.DE,1004059
+152,Iberdrola,IBE.MC,1424184
+153,Southern Company,SO,92122
+154,CSX Corporation,CSX,277948
+155,BYD,002594.SZ,1585717
+156,Vinci,DG.PA,842695
+157,Altria Group,MO,764180
+158,NetEase,NTES,1110646
+159,Sumitomo Mitsui Financial Group,SMFG,1022837
+160,Walmex,WMMVF,
+161,Marriott International,MAR,1048286
+162,Volkswagen,VOW3.DE,1264967
+163,Becton Dickinson,BDX,10795
+164,Schlumberger,SLB,87347
+165,Nintendo,7974.T,1397279
+166,Target,TGT,27419
+167,Colgate-Palmolive,CL,21665
+168,Bank of Montreal,BMO,927971
+169,Itaú Unibanco,ITUB,1132597
+170,Moody's,MCO,1059556
+171,Northrop Grumman,NOC,1133421
+172,National Australia Bank,NAB.AX,833029
+173,BNP Paribas,BNP.PA,2010597
+174,McKesson,MCK,927653
+175,Parker-Hannifin,PH,76334
+176,EOG Resources,EOG,821189
+177,DBS Group,D05.SI,882617
+178,Enel,ENEL.MI,2.02E+13
+179,Chugai Pharmaceutical,4519.T,1177280
+180,Southern Copper,SCCO,1001838
+181,U.S. Bancorp,USB,36104
+182,Recruit,6098.T,1853893
+183,KDDI,9433.T,1106215
+184,PayPal,PYPL,1633917
+185,Amphenol,APH,820313
+186,Santander,SAN,891478
+187,Dassault Systèmes,DSY.PA,877197
+188,Daiichi Sankyō,4568.T,1446393
+189,Cintas,CTAS,723254
+190,O'Reilly Automotive,ORLY,898173
+191,Aon,AON,315293
+192,Trane Technologies,TT,1466258
+193,Ecolab,ECL,31462
+194,London Stock Exchange,LSEG.L,1657036
+195,Emerson,EMR,32604
+196,Dell,DELL,1571996
+197,FedEx,FDX,1048911
+198,PNC Financial Services,PNC,713676
+199,Enterprise Products,EPD,1061219
+200,Tokio Marine,8766.T,98561
+201,Vale,VALE,917851
+202,Roper Technologies,ROP,882835
+203,Oriental Land,4661.T,1545460
+204,Scotiabank,BNS,9631
+205,Marvell Technology Group,MRVL,1835632
+206,Fortescue,FMG.AX,1235652
+207,America Movil,AMX,1129137
+208,Republic Services,RSG,1060391
+209,Banco Bilbao Vizcaya Argentaria,BBVA,842180
+210,Honda,HMC,715153
+211,Simon Property Group,SPG,1063761
+212,Westpac Banking,WBC.AX,719245
+213,Freeport-McMoRan,FCX,831259
+214,ANZ Bank,ANZ.AX,
+215,Autodesk,ADSK,769397
+216,HCL Technologies,HCLTECH.NS,1169139
+217,Pioneer Natural Resources,PXD,1038357
+218,UniCredit,UCG.MI,1491698
+219,Welltower,WELL,766704
+220,Estee Lauder,EL,1001250
+221,Denso,6902.T,1810312
+222,Capital One,COF,927628
+223,Edwards Lifesciences,EW,1099800
+224,3M,MMM,66740
+225,ENI,E,1002242
+226,The Travelers Companies,TRV,86312
+227,MetLife,MET,1099219
+228,Public Storage,PSA,1393311
+229,Ford,F,37996
+230,Ross Stores,ROST,745732
+231,Macquarie,MQG.AX,1.20E+11
+232,National Grid,NGG,1004315
+233,Truist Financial,TFC,92230
+234,American International Group,AIG,5272
+235,Valero Energy,VLO,1035002
+236,BAE Systems,BA.L,1114038
+237,AutoZone,AZO,866787
+238,Copart,CPRT,900075
+239,Infineon,IFX.DE,1107457
+240,Crown Castle,CCI,1051470
+241,D. R. Horton,DHI,882184
+242,Wesfarmers,WES.AX,1436381
+243,Mizuho Financial Group,MFG,1335730
+244,Old Dominion Freight Line,ODFL,878927
+245,IDEXX Laboratories,IDXX,874716
+246,Aflac,AFL,4977
+247,Japan Tobacco,2914.T,1026529
+248,Nucor,NUE,73309
+249,Hess,HES,4447
+250,BASF,BAS.DE,1023170
+251,Manulife Financial,MFC,1086888
+252,Constellation Brands,STZ,16918
+253,Paychex,PAYX,723531
+254,Sempra Energy,SRE,1032208
+255,OCBC Bank,O39.SI,1448817
+256,Adani Enterprises,ADANIENT.NS,1622857
+257,Humana,HUM,49071
+258,Zijin Mining,601899.SS,1459580
+259,Microchip Technology,MCHP,827054
+260,ING,ING,1039765
+261,Holcim Group,HOLN.SW,948696
+262,United Rentals,URI,1067701
+263,Hoya,7741.T,1710788
+264,Sun Pharmaceutical,SUNPHARMA.NS,1615258
+265,Realty Income,O,726728
+266,Digital Realty,DLR,1297996
+267,Waste Connections,WCN,1318220
+268,Maruti Suzuki India,MARUTI.NS,1622505
+269,Bank Mandiri,BMRI.JK,1461748
+270,Suncor Energy,SU,311337
+271,CIBC,CM,1045520
+272,Pernod Ricard,RI.PA,899108
+273,American Electric Power,AEP,4904
+274,Charter Communications,CHTR,1091667
+275,Allstate,ALL,899051
+276,Danone,BN.PA,1823867
+277,Daikin,6367.T,1446519
+278,Centene,CNC,1071739
+279,Oneok,OKE,1039684
+280,Lennar,LEN,920760
+281,Williams Companies,WMB,107263
+282,Las Vegas Sands,LVS,1300514
+283,Kotak Mahindra Bank,KOTAKBANK.NS,1085136
+284,Nordea Bank,NDA-FI.HE,1002614
+285,Tata Motors,TATAMOTORS.NS,926042
+286,TC Energy,TRP,1232384
+287,CITIC Securities,600030.SS,1563721
+288,Hong Kong Exchanges & Clearing,0388.HK,1787728
+289,STMicroelectronics,STM,932787
+290,Ambev,ABEV,1565025
+291,Ferguson,FERG,1832433
+292,Fastenal,FAST,815556
+293,Ametek,AME,1037868
+294,Crédit Agricole,ACA.PA,1191672
+295,Kimberly-Clark,KMB,55785
+296,Axis Bank,AXISBANK.BO,
+297,Grupo México,GMBXF,1042701
+298,Sysco,SYY,96021
+299,Agilent Technologies,A,1090872
+300,NTPC Limited,NTPC.NS,1622878
+301,Capgemini,CAP.PA,1688228
+302,Titan Company,TITAN.NS,
+303,The Hershey Company,HSY,47111
+304,Prudential Financial,PRU,1137774
+305,Newmont,NEM,1164727
+306,Dominion Energy,D,715957
+307,Murata Manufacturing (Murata Seisakusho),6981.T,1446591
+308,Cognizant Technology Solutions,CTSH,1058290
+309,Alcon,ALC,1167379
+310,Cheniere Energy,LNG,3570
+311,Cheniere Energy,CQP,1383650
+312,Electronic Arts,EA,712515
+313,Woodside Energy,WDS,844551
+314,Yum! Brands,YUM,1041061
+315,Cummins,CMI,26172
+316,Compagnie de Saint-Gobain,SGO.PA,1012037
+317,Fidelity National Information Services,FIS,1136893
+318,QNB (Qatar National Bank),QNBK.QA,
+319,Wolters Kluwer,WKL.AS,861967
+320,Kuwait Finance House,KFH.KW,
+321,Deutsche Börse,DB1.DE,949497
+322,Jiangsu Hengrui Medicine,600276.SS,
+323,CITIC Bank,601998.SS,1495687
+324,General Mills,GIS,40704
+325,UOB,U11.SI,1117013
+326,SMC corp,6273.T,1446693
+327,Ingersoll Rand,IR,1699150
+328,Goodman Group,GMG.AX,1412887
+329,Monolithic Power Systems,MPWR,1280452
+330,Gartner,IT,749251
+331,Asian Paints,ASIANPAINT.NS,1622453
+332,Exelon Corporation,EXC,1109357
+333,Generali,G.MI,1874288
+334,Global Payments,GPN,1123360
+335,Advantest,6857.T,1158838
+336,Kia,000270.KS,1870438
+337,BCE,BCE,718940
+338,UltraTech Cement,ULTRACEMCO.NS,1496190
+339,Lloyds Banking Group,LYG,1160106
+340,Rolls-Royce Holdings,RR.L,1649568
+341,Kroger,KR,56873
+342,Wipro,WIT,1123799
+343,Adidas,ADS.DE,1772347
+344,Vulcan Materials,VMC,1396009
+345,ON Semiconductor,ON,1097864
+346,Beiersdorf,BEI.DE,1450275
+347,PPG Industries,PPG,79879
+348,Martin Marietta,MLM,916076
+349,Banco do Brasil,BBAS3.SA,1433913
+350,CoStar Group,CSGP,1057352
+351,Swiss Re,SREN.SW,277910
+352,Maybank,MLYBY,1644788
+353,E.ON,EOAN.DE,1820930
+354,Xcel Energy,XEL,72903
+355,Loblaw Companies,L.TO,1081862
+356,Arch Capital,ACGL,947484
+357,Imperial Oil,IMO,49938
+358,Rockwell Automation,ROK,1024478
+359,Disco Corp.,6146.T,1671750
+360,Nasdaq,NDAQ,1120193
+361,FICO,FICO,814547
+362,Biogen,BIIB,875045
+363,Equifax,EFX,33185
+364,Ryanair,RYAAY,1038683
+365,Banorte,GFNORTEO.MX,1464898
+366,Mitsubishi Electric,6503.T,1446645
+367,Sun Life Financial,SLF,1097362
+368,Halliburton,HAL,45012
+369,Dollar Tree,DLTR,935703
+370,Dollar General,DG,29534
+371,Indian Oil,IOC.NS,1074779
+372,Extra Space Storage,EXR,1289490
+373,Orange,ORAN,1038143
+374,Powergrid Corporation of India,POWERGRID.NS,
+375,Quanta Services,PWR,1050915
+376,Toyota Industries,6201.T,1130894
+377,Skandinaviska Enskilda Banken,SEB-A.ST,917311
+378,Quanta Computer,2382.TW,1427401
+379,ASM International,ASM.AS,351483
+380,Anglo American,AAL.L,801973
+381,3i Group,III.L,30001078716
+382,Bayer,BAYN.DE,1744735
+383,Pfeiffer Vacuum,PFV.F,1010613
+384,Genesis Energy,GNE.NZ,1530418
+385,Denison Mines,DNN,1063259
+386,Action Construction Equipment,ACE.NS,
+387,Fletcher Building,FBU.NZ,1137182
+388,First Pacific Company,0142.HK,800344
+389,TKH Group,TWEKA.AS,1506269
+390,VEON,VEON,1468091
+391,KWS,KWS.F,858415
+392,Virtus Investment Partners,VRTS,883237
+393,TS TECH,7313.T,30001494924
+394,Lakeland Financial Corp,LKFN,721994
+395,Catalyst Pharmaceuticals,CPRX,1369568
+396,Hang Lung Group,0010.HK,806939
+397,Trustmark,TRMK,36146
+398,Banpu Public Company,BANPU.BK,1516198
+399,NBT Bancorp,NBTB,790359
+400,CoreCivic,CXW,1070985
+401,Barco NV,BAR.BR,1445168
+402,Compagnie Plastic Omnium,POM.PA,
+403,LOTTE Corporation,004990.KS,
+404,BlackBerry,BB,1070235
+405,Gentherm,THRM,903129
+406,Hornbach Baumarkt,HBM.HM,930451
+407,Stelco,STLC.TO,1783000
+408,Peab,PEAB-B.ST,1064974
+409,La-Z-Boy,LZB,57131
+410,Kuwait Projects Company Holding,KPROJ.KW,
+411,NAPCO Security Technologies,NSSC,69633
+412,Sapiens,SPNS,885740
+413,Grupa Kety,KTY.WA,1454458
+414,Dynavax Technologies,DVAX,1029142
+415,Exchange Income Corporation,EIF.TO,
+416,TTM Technologies,TTMI,1116942
+417,Asahi India Glass,ASAHIINDIA.NS,
+418,Telephone and Data Systems,TDS,1051512
+419,Cracker Barrel,CBRL,1067294
+420,Taro Pharmaceutical,TARO,906338
+421,NETSCOUT,NTCT,1078075
+422,BEML,BEML.NS,
+423,Central Plaza Hotel,CENTEL.BK,
+424,CSG International,CSGS,1005757
+425,Extreme Networks,EXTR,1078271
+426,Tauron Polska,TPE.WA,1553756
+427,Gujarat Mineral Development,GMDCLTD.NS,
+428,Marten Transport,MRTN,799167
+429,Oxford Industries,OXM,75288
+430,Freehold Royalties,FRU.TO,
+431,Banner Bank,BANR,946673
+432,Helix Energy Solutions,HLX,866829
+433,Salzgitter,SZG.F,1450344
+434,Genus,GNS.L,1098972
+435,Jack in the Box,JACK,807882
+436,American Woodmark,AMWD,794619
+437,Vaisala,VAIAS.HE,
+438,ProSiebenSat.1 Media,PSM.F,10001137849
+439,Green Plains,GPRE,1309402
+440,UFP Technologies,UFPT,914156
+441,Labrador Iron Ore Royalty Corp.,LIF.TO,
+442,Kontron AG,KTN.F,1216120
+443,Engineers India,ENGINERSIN.NS,
+444,Vtech,0303.HK,1471302
+445,Tokai Carbon,5301.T,1569446
+446,KCC Corp,002380.KS,
+447,Monex Group,8698.T,1557522
+448,First Bancorp,FBNC,811589
+449,First Bancorp,FNLC,765207
+450,Getty Realty,GTY,1052752
+451,Zensar,ZENSARTECH.NS,
+452,Redefine Properties,RDF.JO,1583184
+453,First Watch Restaurant,FWRG,1789940
+454,Hawkins,HWKN,46250
+455,Heartland Financial USA,HTLF,920112
+456,Pacific Basin Shipping,2343.HK,1441463
+457,G-III Apparel Group,GIII,821002
+458,Ingles Markets,IMKTA,50493
+459,Canfor,CFP.TO,1652433
+460,Enghouse Systems,ENGH.TO,1203589
+461,CTS Corporation,CTS,26058
+462,Bajaj Electricals,BAJAJELEC.NS,
+463,The North West Company,NWC.TO,
+464,CEAT,CEATLTD.NS,943941
+465,SM Entertainment,041510.KQ,773135
+466,Stock Yards Bancorp,SYBT,835324
+467,Betsson AB,BETS-B.ST,1684835
+468,Atea ASA,ATEA.OL,1861597
+469,First Commonwealth Financial Corp,FCF,712537
+470,SpareBank 1,SPOL.OL,10001492913
+471,Lindsay Corporation,LNN,836157
+472,LTC Properties,LTC,887905
+473,Caleres,CAL,14707
+474,Kforce,KFRC,930420
+475,Corticeira Amorim,COR.LS,
+476,Guess,GES,912463
+477,NW Natural,NWN,1733998
+478,PDF Solutions,PDFS,1120914
+479,John Wood Group,WG.L,904325
+480,Granules India,GRANULES.NS,
+481,Ingersoll Rand India,INGERRAND.NS,
+482,Air New Zealand,ANZFF,1448507
+483,First Majestic Silver,AG,1308648
+484,Alony Hetz,ALHE.TA,
+485,Polymetal,PM6A.F,1463640
+486,Gimv NV,GIMB.BR,1284391
+487,Shinsegae,004170.KS,
+488,Omnicell,OMCL,926326
+489,AS ONE Corporation,7476.T,
+490,Intershop Holding,ISN.SW,
+491,Ligand Pharmaceuticals,LGND,886163
+492,First Busey,BUSE,314489
+493,Semtech,SMTC,88941
+494,Investcorp Capital,ICAP.AE,
+495,Maytronics,MTRN.TA,
+496,Nokian Tyres,TYRES.HE,1436790
+497,Diebold Nixdorf,DBD,28823
+498,Suburban Propane Partners,SPH,1005210
+499,Indiabulls Housing Finance,IBULHSGFIN.NS,1623157
+500,NCC,NCC-B.ST,798737
+501,Columbus McKinnon,CMCO,1005229
+502,Precinct Properties,PCT.NZ,
+503,City Union Bank,CUB.NS,
+504,Westamerica Bancorporation,WABC,311094
+505,MDA Ltd.,MDA.TO,1857047
+506,Fortune REIT,0778.HK,
+507,Mastek,MASTEK.NS,1626758
+508,RPT Realty,RPT,842183
+509,Triumph Group,TGI,1021162
+510,Aimco,AIV,922864
+511,Innergex Renewable Energy,INE.TO,
+512,Magellan Financial Group,MFG.AX,
+513,MFA Financial,MFA,1055160
+514,Praj Industries,PRAJIND.NS,
+515,Quanex Building Products,NX,1423221
+516,Neuland Laboratories,NEULANDLAB.NS,
+517,PNE AG,PNE3.DE,
+518,Energiekontor,EKT.DE,
+519,Centerra Gold,CGAU,1854640
+520,PRA Group,PRAA,1185348
+521,Geron,GERN,886744
+522,Perion Network,PERI,1338940
+523,Benchmark Electronics,BHE,863436
+524,Rajesh Exports,RAJESHEXPO.NS,
+525,MacroGenics,MGNX,1125345
