@@ -1,4 +1,5 @@
 from pytrends.request import TrendReq
+import time
 
 def index_with_dates(keywords, start_date, end_date):
      """
@@ -11,12 +12,14 @@ def index_with_dates(keywords, start_date, end_date):
      # cat='' Financial Markets: 1163
      """
      try:
-          pytrends = TrendReq(hl='en-US', tz=360, timeout=(10,25), retries=2, backoff_factor=0.1, requests_args={'verify':False})
+          pytrends = TrendReq(hl='en-US', tz=360, requests_args={'verify':False})
           timeframe = start_date + " " + end_date
           pytrends.build_payload(kw_list=keywords, timeframe=timeframe, geo='', gprop='')
           results = pytrends.interest_over_time()
+          time.sleep(6)
           return results
-     except:
+     except Exception as e:
+          print(e)
           print(f'error has occured for {keywords}, {start_date} to {end_date}')
 
 
